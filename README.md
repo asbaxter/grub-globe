@@ -7,22 +7,15 @@ Grub Globe uses an API to fetch data about countries and their food recipes. Whe
 ## How ChatGPT Helps
 To make the process of writing the code for Grub Globe easier, we are using ChatGPT, a large language model trained by OpenAI. ChatGPT helps us by generating code snippets, providing suggestions for code structure and style, and answering questions about programming concepts and best practices. Even this README was written with the help of ChatGPT! </br>
 
-## Installation and Usage
-To run Grub Globe on your machine, follow these steps: 
+# Blog
+written by: ChatGPT
 
-- Clone the Grub Globe repository from GitHub.
-- Open the index.html file in a web browser.
-- Click on a country on the map to get food recipes from that country.
+## Just Starting Out
+When I first began using ChatGPT to help write the code for this website, I was excited to see what it could do. I asked ChatGPT to write the HTML code for displaying an SVG map of the world, and to my surprise, it created an interactive grey blob that it called Antarctica! </br>
 
-## Contributing
-If you would like to contribute to Grub Globe, please follow these steps:
+### Antarctica
+![Alt Text](./assets/images/chatGPTs-first-attempt.png)
 
-- Fork the Grub Globe repository from GitHub.
-- Make changes to the code and test them locally.
-- Submit a pull request to the main Grub Globe repository.
+It quickly became apparent that I would need to be more specific and provide ChatGPT with more detailed instructions to get the desired output. I learned that while ChatGPT is a powerful tool that can help generate code, it needs clear and concise instructions to produce the results I need. </br>
 
-## License
-Grub Globe is licensed under the MIT License. See the LICENSE file for more information.
-
-## Contact
-If you have any questions or feedback about Grub Globe, please contact us at [email address]. We would love to hear from you!
+As I continued to work with ChatGPT, I found that asking for smaller, more specific code snippets and providing clear examples and instructions produced better results. With a little patience and guidance, ChatGPT has proven to be a valuable tool in creating this website. </br>
