@@ -1,3 +1,7 @@
 path:hover{
  fill: #CCCCFF;
 }
+
+#my-svg-element {
+    pointer-events: all;
+  }
