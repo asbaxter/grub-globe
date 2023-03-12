@@ -2,6 +2,8 @@
 window.onload = function() {
     const worldMapObject = document.querySelector('#world-map-object');
     const wolrdMapContent = worldMapObject.contentDocument;
+    const popup = document.getElementById("popup");
+    const countryName = document.getElementById("country-name");
     
     wolrdMapContent.addEventListener('click', function(event) {
 
@@ -11,10 +13,12 @@ window.onload = function() {
         const className = event.target.classList.value;
 
         if (name == null){
-            console.log(className);
+            popup.classList.toggle("hidden");
+            countryName.innerHTML = className;
         }
         else {
-            console.log(name);
+            popup.classList.toggle("hidden");
+            countryName.innerHTML = name;
         }
 
     });
