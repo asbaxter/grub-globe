@@ -1,6 +1,5 @@
 {
-    "Afghanistan": [
-        {
+    "Afghanistan": {
         "recipes": [
           {
             "name": "Kabuli Pulao",
@@ -54,5 +53,4 @@
           }
         ]
       }
-    ]
 }
