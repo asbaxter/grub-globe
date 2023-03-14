@@ -1,26 +1,30 @@
-path:hover{
- fill: #CCCCFF;
+path:hover {
+  fill: #ccccff;
 }
 
 #my-svg-element {
-    pointer-events: all;
-  }
+  pointer-events: all;
+}
 
-  /** -------------------- popups ----------------------- **/
-  #popup {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    margin: auto;
-    width: 600px;
-    height: 500px;
-    background-color: white;
-    border: 1px solid black;
-    text-align: center;
-  }
+ul {
+  list-style: none;
+}
 
-  .hidden{
-    display: none;
-  }
+/** -------------------- Popup Window ----------------------- **/
+#popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  width: 600px;
+  height: 500px;
+  background-color: white;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
