@@ -13,6 +13,9 @@ window.onload = function () {
 
     const name = event.target.getAttribute("name");
     const className = event.target.classList.value;
+    // clear previous ingredients and instructions
+    ingredientList.innerHTML = "";
+    instructionList.innerHTML = "";
 
     if (name == null) {
       countryName.innerHTML = className;

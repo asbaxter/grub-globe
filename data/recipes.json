@@ -779,5 +779,2348 @@
         ]
       }
     ]
+  },
+  "Bahamas": {
+    "recipes": [
+      {
+        "name": "Bahamian Conch Salad",
+        "description": "A refreshing and light seafood salad made with fresh conch and vegetables.",
+        "ingredients": [
+          "1 lb. fresh conch, cleaned and chopped",
+          "2 large tomatoes, chopped",
+          "1 large green pepper, chopped",
+          "1/2 cup red onion, chopped",
+          "1/4 cup fresh cilantro, chopped",
+          "1/4 cup fresh lime juice",
+          "2 tbsp. olive oil",
+          "1 tbsp. hot sauce",
+          "1/2 tsp. salt",
+          "1/4 tsp. black pepper",
+          "1 small avocado, diced (optional)"
+        ],
+        "instructions": [
+          "In a large bowl, combine the chopped conch, tomatoes, green pepper, red onion, and cilantro.",
+          "In a small bowl, whisk together the lime juice, olive oil, hot sauce, salt, and black pepper.",
+          "Pour the dressing over the conch mixture and toss to combine.",
+          "Cover and refrigerate for at least 1 hour, or until ready to serve.",
+          "Just before serving, stir in the diced avocado, if desired."
+        ]
+      },
+      {
+        "name": "Bahamian Peas and Rice",
+        "description": "A staple dish in Bahamian cuisine made with pigeon peas and rice, seasoned with herbs and spices.",
+        "ingredients": [
+          "1 lb. dried pigeon peas, soaked overnight and drained",
+          "4 cups water",
+          "2 cups long-grain white rice",
+          "1 large onion, chopped",
+          "2 garlic cloves, minced",
+          "2 tbsp. olive oil",
+          "1 tsp. dried thyme",
+          "1 tsp. smoked paprika",
+          "1 tsp. salt",
+          "1/4 tsp. black pepper"
+        ],
+        "instructions": [
+          "In a large pot, combine the soaked pigeon peas and water. Bring to a boil over high heat.",
+          "Reduce heat to low and simmer, covered, for 30 minutes.",
+          "Add the rice, onion, garlic, olive oil, thyme, paprika, salt, and black pepper to the pot. Stir to combine.",
+          "Cover and simmer over low heat for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+          "Remove from heat and let stand, covered, for 10 minutes.",
+          "Fluff the rice with a fork and serve hot."
+        ]
+      }
+    ]
+  },
+  "Bahrain": {
+    "recipes": [
+      {
+        "name": "Machboos",
+        "description": "A Bahraini spiced rice dish with chicken or lamb, served with a side of tomato and cucumber salad.",
+        "ingredients": [
+          "1 pound chicken or lamb, cubed",
+          "2 cups basmati rice",
+          "2 onions, chopped",
+          "4 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "1/4 cup tomato paste",
+          "1 tablespoon baharat spice blend",
+          "1/2 teaspoon turmeric",
+          "1/2 teaspoon cumin",
+          "1/2 teaspoon cinnamon",
+          "1/4 teaspoon cardamom",
+          "1/4 teaspoon cloves",
+          "1/4 teaspoon black pepper",
+          "1/4 cup vegetable oil",
+          "4 cups water",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "In a large pot, heat the oil over medium heat. Add the onions and cook until softened.",
+          "Add the meat and cook until browned on all sides.",
+          "Add the garlic, tomatoes, tomato paste, baharat spice blend, turmeric, cumin, cinnamon, cardamom, cloves, black pepper, and salt to taste. Stir to combine.",
+          "Add the water and bring to a boil.",
+          "Reduce heat to low and cover the pot. Simmer for 30-40 minutes, or until the meat is tender and the liquid has been absorbed.",
+          "Meanwhile, wash the rice in cold water until the water runs clear. Drain the rice and set aside.",
+          "When the meat is almost done, add the rice to the pot and stir to combine.",
+          "Add more water if needed to cover the rice. Bring to a boil, then reduce heat to low and cover the pot. Cook for 15-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+          "Serve hot with a side of tomato and cucumber salad."
+        ]
+      },
+      {
+        "name": "Khubz",
+        "description": "A Bahraini flatbread made with flour, water, and yeast.",
+        "ingredients": [
+          "4 cups all-purpose flour",
+          "1 teaspoon active dry yeast",
+          "1 teaspoon salt",
+          "1 1/2 cups warm water"
+        ],
+        "instructions": [
+          "In a large bowl, combine the flour, yeast, and salt.",
+          "Add the warm water and stir until a dough forms.",
+          "Turn the dough out onto a floured surface and knead for 10-15 minutes, or until the dough is smooth and elastic.",
+          "Place the dough in a greased bowl and cover with a damp cloth. Let rise in a warm place for 1-2 hours, or until doubled in size.",
+          "Preheat the oven to 500°F (260°C).",
+          "Divide the dough into 8-10 equal pieces and roll each piece into a circle about 1/4 inch (0.6 cm) thick.",
+          "Place the dough circles on a baking sheet and bake for 5-7 minutes, or until puffed and lightly browned.",
+          "Serve warm."
+        ]
+      }
+    ]
+  },
+  "Bangladesh": {
+    "recipes": [
+      {
+        "name": "Biryani",
+        "description": "A popular mixed rice dish with meat, vegetables, and aromatic spices.",
+        "ingredients": [
+          "1 lb chicken or beef, cut into pieces",
+          "3 cups basmati rice",
+          "3 tbsp vegetable oil",
+          "2 onions, sliced",
+          "2 tbsp ginger-garlic paste",
+          "2-3 green chilies, slit",
+          "2 cups mixed vegetables (carrots, potatoes, peas, etc.)",
+          "1/2 cup plain yogurt",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp garam masala powder",
+          "1/2 tsp turmeric powder",
+          "2 bay leaves",
+          "4-5 cardamom pods",
+          "4-5 cloves",
+          "1 cinnamon stick",
+          "Salt, to taste",
+          "4 cups water"
+        ],
+        "instructions": [
+          "Wash and soak the rice for 30 minutes.",
+          "Heat oil in a large pot over medium heat. Add the onions and fry until golden brown.",
+          "Add the meat and cook until browned on all sides.",
+          "Add ginger-garlic paste, green chilies, and mixed vegetables. Stir well and cook for a few minutes.",
+          "Add cumin powder, coriander powder, garam masala powder, turmeric powder, bay leaves, cardamom pods, cloves, cinnamon stick, and salt. Mix well.",
+          "Add the soaked rice and fry for a few minutes, stirring constantly.",
+          "Add yogurt and water. Stir well and bring to a boil.",
+          "Cover the pot and simmer over low heat until the rice is cooked and the water has been absorbed, about 20-25 minutes.",
+          "Serve hot."
+        ]
+      },
+      {
+        "name": "Fish Curry",
+        "description": "A spicy and tangy fish dish cooked in a tomato-based curry.",
+        "ingredients": [
+          "1 lb fish (rohu, catfish, tilapia, or any firm white fish), cut into pieces",
+          "2 onions, finely chopped",
+          "2 tomatoes, chopped",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "2-3 green chilies, slit",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "1 tsp garam masala powder",
+          "Salt, to taste",
+          "3 tbsp vegetable oil",
+          "2 cups water",
+          "A handful of chopped cilantro leaves"
+        ],
+        "instructions": [
+          "Heat oil in a deep pan over medium heat. Add the onions and fry until golden brown.",
+          "Add ginger paste, garlic paste, and green chilies. Fry for a few minutes.",
+          "Add cumin powder, coriander powder, turmeric powder, red chili powder, garam masala powder, and salt. Mix well and fry for a minute.",
+          "Add the chopped tomatoes and cook until they are soft and mushy.",
+          "Add water and bring to a boil.",
+          "Add the fish pieces and cook over medium heat until the fish is cooked through, about 10-15 minutes.",
+          "Garnish with chopped cilantro leaves and serve hot with rice."
+        ]
+      }
+    ]
+  },
+  "Barbados": {
+    "recipes": [
+      {
+        "name": "Cou Cou and Flying Fish",
+        "description": "A traditional Barbadian dish made with cornmeal and okra, served with flying fish.",
+        "ingredients": [
+          "1 cup cornmeal",
+          "1 cup water",
+          "2 cups fish stock",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 sprig thyme",
+          "1 scotch bonnet pepper",
+          "1 tablespoon butter",
+          "Salt and pepper to taste",
+          "1 pound flying fish, cleaned and deboned"
+        ],
+        "instructions": [
+          "In a large pot, bring the fish stock to a boil.",
+          "Add the onion, garlic, thyme, and scotch bonnet pepper to the pot and simmer for 5-10 minutes.",
+          "In a bowl, mix together the cornmeal and water to form a smooth paste.",
+          "Add the cornmeal mixture to the pot and stir constantly with a wooden spoon until the mixture thickens and begins to pull away from the sides of the pot.",
+          "Add the butter and stir until melted. Season with salt and pepper to taste.",
+          "In a separate pan, fry the flying fish until golden brown on both sides.",
+          "Serve the cou cou hot with the fried flying fish on top."
+        ]
+      },
+      {
+        "name": "Bajan Macaroni Pie",
+        "description": "A delicious cheesy casserole made with macaroni, eggs, and milk.",
+        "ingredients": [
+          "1 pound elbow macaroni",
+          "4 tablespoons butter",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 red bell pepper, chopped",
+          "1 green bell pepper, chopped",
+          "2 cups milk",
+          "2 eggs, beaten",
+          "1/2 teaspoon dried thyme",
+          "1/2 teaspoon dried oregano",
+          "1/2 teaspoon paprika",
+          "1/2 teaspoon black pepper",
+          "1/2 teaspoon salt",
+          "2 cups grated cheddar cheese"
+        ],
+        "instructions": [
+          "Preheat the oven to 375°F.",
+          "Cook the macaroni according to package instructions, then drain and set aside.",
+          "In a large pan, melt the butter over medium heat.",
+          "Add the onion, garlic, and bell peppers to the pan and cook until softened.",
+          "In a bowl, whisk together the milk, eggs, thyme, oregano, paprika, black pepper, and salt.",
+          "Add the cooked macaroni and grated cheese to the bowl and stir to combine.",
+          "Add the cooked vegetables to the bowl and stir again.",
+          "Pour the mixture into a greased 9x13 inch baking dish.",
+          "Bake in the preheated oven for 30-40 minutes, or until golden brown on top and set in the center.",
+          "Remove from the oven and let cool for a few minutes before serving."
+        ]
+      }
+    ]
+  },
+  "Belarus": {
+    "recipes": [
+      {
+        "name": "Drachena",
+        "description": "A hearty meat and potato stew, perfect for cold winter days.",
+        "ingredients": [
+          "2 pounds beef, cut into cubes",
+          "4 potatoes, peeled and diced",
+          "2 onions, chopped",
+          "2 carrots, peeled and sliced",
+          "2 parsnips, peeled and sliced",
+          "1/2 head of cabbage, chopped",
+          "1/2 cup tomato paste",
+          "4 cups beef broth",
+          "1 teaspoon salt",
+          "1 teaspoon black pepper",
+          "2 bay leaves",
+          "1/2 teaspoon dried thyme",
+          "1/2 teaspoon dried marjoram",
+          "2 tablespoons vegetable oil"
+        ],
+        "instructions": [
+          "In a large pot or Dutch oven, heat the oil over medium-high heat.",
+          "Add the beef and cook until browned on all sides.",
+          "Add the onions, carrots, and parsnips to the pot and cook until the vegetables are softened.",
+          "Add the tomato paste, salt, pepper, bay leaves, thyme, and marjoram to the pot and stir to combine.",
+          "Add the beef broth and bring the mixture to a boil.",
+          "Reduce heat to low and simmer for 1-2 hours, or until the beef is tender.",
+          "Add the potatoes and cabbage to the pot and continue to simmer for another 30-40 minutes, or until the vegetables are tender.",
+          "Remove the bay leaves before serving."
+        ]
+      },
+      {
+        "name": "Drushki",
+        "description": "Fried potato pancakes made with grated potatoes, onions, and flour.",
+        "ingredients": [
+          "4 potatoes, peeled and grated",
+          "1 onion, grated",
+          "2 tablespoons flour",
+          "1 egg",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "Vegetable oil, for frying"
+        ],
+        "instructions": [
+          "In a large bowl, combine the grated potatoes and onion.",
+          "Add the flour, egg, salt, and pepper to the bowl and mix until well combined.",
+          "In a large skillet or griddle, heat about 1/4 inch of oil over medium-high heat.",
+          "Using a large spoon or ladle, scoop about 1/4 cup of the potato mixture into the hot oil and flatten slightly with the back of the spoon.",
+          "Repeat to make several more pancakes, being careful not to overcrowd the skillet.",
+          "Fry the pancakes for about 3-4 minutes on each side, or until golden brown and crispy.",
+          "Remove the pancakes from the skillet and drain on paper towels.",
+          "Repeat with the remaining potato mixture.",
+          "Serve the pancakes hot with your favorite toppings, such as sour cream, applesauce, or bacon."
+        ]
+      }
+    ]
+  },
+  "Belgium": {
+    "recipes": [
+      {
+        "name": "Moules-frites",
+        "description": "A traditional Belgian dish of steamed mussels and french fries.",
+        "ingredients": [
+          "2 pounds mussels, cleaned and debearded",
+          "2 tablespoons unsalted butter",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1/2 cup dry white wine",
+          "1/2 cup chicken broth",
+          "1/2 cup heavy cream",
+          "1/4 cup chopped fresh parsley",
+          "1/4 cup chopped fresh chives",
+          "Salt and pepper to taste",
+          "2 pounds potatoes, peeled and cut into fries",
+          "Vegetable oil for frying"
+        ],
+        "instructions": [
+          "In a large pot, melt the butter over medium heat.",
+          "Add the onion and garlic and cook until soft.",
+          "Add the mussels, white wine, and chicken broth.",
+          "Cover the pot and cook until the mussels have opened, about 5-7 minutes.",
+          "Remove the mussels from the pot and keep warm.",
+          "Add the cream to the pot and simmer until the sauce has thickened slightly, about 5 minutes.",
+          "Stir in the parsley, chives, salt, and pepper.",
+          "Meanwhile, heat the vegetable oil in a deep fryer or large pot to 375°F.",
+          "Add the potato fries and cook until golden brown, about 4-6 minutes.",
+          "Drain the fries on paper towels and sprinkle with salt.",
+          "Serve the mussels with the sauce and the fries on the side."
+        ]
+      },
+      {
+        "name": "Carbonnade flamande",
+        "description": "A Belgian beef stew made with beer and served with crusty bread.",
+        "ingredients": [
+          "3 pounds beef chuck roast, cut into 2-inch cubes",
+          "Salt and pepper to taste",
+          "4 tablespoons unsalted butter",
+          "4 onions, sliced",
+          "4 garlic cloves, minced",
+          "2 tablespoons all-purpose flour",
+          "2 cups Belgian beer",
+          "2 cups beef broth",
+          "2 tablespoons brown sugar",
+          "2 bay leaves",
+          "2 sprigs fresh thyme",
+          "8 slices crusty bread"
+        ],
+        "instructions": [
+          "Preheat the oven to 325°F.",
+          "Season the beef with salt and pepper.",
+          "In a large Dutch oven, melt the butter over medium-high heat.",
+          "Add the beef in batches and brown on all sides. Set aside.",
+          "Add the onions and garlic to the pot and cook until soft, about 5 minutes.",
+          "Sprinkle the flour over the onions and stir to combine.",
+          "Add the beer, beef broth, brown sugar, bay leaves, and thyme.",
+          "Return the beef to the pot and bring to a simmer.",
+          "Cover the pot and transfer to the oven.",
+          "Bake for 2-3 hours, or until the beef is tender.",
+          "Remove the pot from the oven and discard the bay leaves and thyme.",
+          "Serve the beef stew with slices of crusty bread on the side."
+        ]
+      }
+    ]
+  },
+  "Belize": {
+    "recipes": [
+      {
+        "name": "Stewed Chicken with Rice and Beans",
+        "description": "A classic Belizean dish made with chicken cooked in a rich tomato-based sauce and served with rice and beans.",
+        "ingredients": [
+          "1 whole chicken, cut into pieces",
+          "1 tablespoon vegetable oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "1 bell pepper, chopped",
+          "1 tablespoon tomato paste",
+          "2 cups water",
+          "1 teaspoon dried thyme",
+          "1 teaspoon dried oregano",
+          "1 teaspoon paprika",
+          "1/2 teaspoon cumin",
+          "Salt and pepper to taste",
+          "1 can kidney beans, drained and rinsed",
+          "2 cups long-grain white rice",
+          "4 cups water"
+        ],
+        "instructions": [
+          "In a large pot, heat the vegetable oil over medium heat.",
+          "Add the chicken pieces and cook until browned on all sides.",
+          "Remove the chicken from the pot and set aside.",
+          "Add the onion, garlic, tomatoes, and bell pepper to the pot and cook until softened.",
+          "Stir in the tomato paste, water, thyme, oregano, paprika, cumin, salt, and pepper.",
+          "Return the chicken to the pot and bring the mixture to a boil.",
+          "Reduce the heat to low, cover the pot, and simmer for 45-60 minutes or until the chicken is cooked through and the sauce has thickened.",
+          "In a separate pot, combine the rice, water, and salt and bring to a boil.",
+          "Reduce the heat to low, cover the pot, and simmer for 18-20 minutes or until the rice is cooked and the water is absorbed.",
+          "Stir in the kidney beans and serve the stewed chicken over the rice and beans."
+        ]
+      },
+      {
+        "name": "Fry Jacks",
+        "description": "A popular Belizean breakfast dish made of fried dough served with honey or jam.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "2 teaspoons baking powder",
+          "1/2 teaspoon salt",
+          "3/4 cup water",
+          "Vegetable oil for frying",
+          "Honey or jam for serving"
+        ],
+        "instructions": [
+          "In a large mixing bowl, combine the flour, baking powder, and salt.",
+          "Add the water and stir until a dough forms.",
+          "Knead the dough on a floured surface until it becomes smooth and elastic.",
+          "Divide the dough into small pieces and shape into balls.",
+          "Heat the vegetable oil in a deep fryer or large pot to 375°F.",
+          "Flatten each ball of dough with your hands to form a thin disc.",
+          "Fry the dough discs in the hot oil until golden brown, about 1-2 minutes per side.",
+          "Drain the fry jacks on paper towels.",
+          "Serve the fry jacks hot with honey or jam."
+        ]
+      }
+    ]
+  },
+  "Benin": {
+    "recipes": [
+      {
+        "name": "Kuli Kuli",
+        "description": "A popular snack food in Benin made from peanuts.",
+        "ingredients": [
+          "2 cups roasted peanuts",
+          "2 teaspoons ground ginger",
+          "1 teaspoon ground cayenne pepper",
+          "Salt, to taste",
+          "1/4 cup water",
+          "Vegetable oil, for frying"
+        ],
+        "instructions": [
+          "Grind the roasted peanuts in a food processor until they are finely ground.",
+          "Add the ground ginger, cayenne pepper, salt, and water to the peanut mixture and knead it together with your hands until it forms a firm dough.",
+          "Form the dough into small balls or cylinder shapes.",
+          "Heat the vegetable oil in a deep fryer or a large pot over medium heat.",
+          "Fry the kuli kuli in the hot oil until they are golden brown and crispy, about 3-5 minutes.",
+          "Drain the kuli kuli on paper towels and allow them to cool before serving."
+        ]
+      }
+    ]
+  },
+  "Bermuda": {
+    "recipes": [
+      {
+        "name": "Fish Chowder",
+        "description": "A traditional Bermudian soup made with fish, vegetables, and spices.",
+        "ingredients": [
+          "1 lb firm white fish fillets, such as cod or haddock",
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "1 green bell pepper, chopped",
+          "1 red bell pepper, chopped",
+          "2 celery stalks, chopped",
+          "3 cloves garlic, minced",
+          "1 tablespoon tomato paste",
+          "1 teaspoon dried thyme",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon cayenne pepper",
+          "2 bay leaves",
+          "4 cups fish or chicken broth",
+          "1 can diced tomatoes (14 oz)",
+          "1/4 cup sherry",
+          "Salt and pepper to taste",
+          "Lemon wedges and chopped parsley, for serving"
+        ],
+        "instructions": [
+          "Cut the fish into 1-inch cubes and set aside.",
+          "Heat the olive oil in a large pot over medium heat.",
+          "Add the onion, bell peppers, celery, and garlic and cook until the vegetables are soft, about 5 minutes.",
+          "Stir in the tomato paste, thyme, cumin, and cayenne pepper and cook for 1-2 minutes.",
+          "Add the bay leaves, fish or chicken broth, diced tomatoes, and sherry.",
+          "Bring the soup to a simmer and cook for 20-30 minutes.",
+          "Add the fish cubes and cook for an additional 10-15 minutes, or until the fish is cooked through.",
+          "Season the soup with salt and pepper to taste.",
+          "Serve the fish chowder hot, garnished with lemon wedges and chopped parsley."
+        ]
+      },
+      {
+        "name": "Bermuda Fish Sandwich",
+        "description": "A classic Bermudian sandwich made with fried fish and traditional condiments.",
+        "ingredients": [
+          "1 lb firm white fish fillets, such as cod or haddock",
+          "1/4 cup all-purpose flour",
+          "1/4 cup cornmeal",
+          "1 teaspoon salt",
+          "1/2 teaspoon cayenne pepper",
+          "Vegetable oil, for frying",
+          "2 hamburger buns",
+          "2 tablespoons tartar sauce",
+          "2 tablespoons ketchup",
+          "2 tablespoons mayonnaise",
+          "2 lettuce leaves",
+          "2 slices tomato",
+          "Hot sauce, to taste"
+        ],
+        "instructions": [
+          "Cut the fish into 2-inch wide strips.",
+          "In a shallow dish, mix together the flour, cornmeal, salt, and cayenne pepper.",
+          "Coat the fish strips in the flour mixture, shaking off any excess.",
+          "Heat the vegetable oil in a large skillet over medium-high heat.",
+          "Add the fish strips to the skillet and fry until golden brown and crispy, about 3-4 minutes per side.",
+          "Remove the fish from the skillet and drain on paper towels.",
+          "Toast the hamburger buns.",
+          "In a small bowl, mix together the tartar sauce, ketchup, and mayonnaise.",
+          "Spread the sauce on the bottom half of each bun.",
+          "Top with a lettuce leaf, a slice of tomato, and the fried fish strips.",
+          "Drizzle with hot sauce to taste, if desired, and top with the other half of the bun.",
+          "Serve the Bermuda fish sandwich hot."
+        ]
+      }
+    ]
+  },
+  "Bhutan": {
+    "recipes": [
+      {
+        "name": "Ema datshi",
+        "description": "A spicy Bhutanese dish made with chili peppers and cheese.",
+        "ingredients": [
+          "6-8 fresh green chili peppers, stemmed and sliced",
+          "2-3 garlic cloves, minced",
+          "1 onion, sliced",
+          "1 tomato, diced",
+          "1/2 teaspoon salt",
+          "1/2 teaspoon turmeric",
+          "1/2 cup water",
+          "1/2 cup crumbled Bhutanese cheese (or substitute feta or queso fresco)"
+        ],
+        "instructions": [
+          "In a large pan or wok, sauté the chili peppers, garlic, and onion over medium heat until the onion is translucent.",
+          "Add the tomato, salt, and turmeric and continue cooking until the tomato has softened.",
+          "Add the water and bring to a simmer.",
+          "Add the crumbled cheese and stir until it has melted and the sauce has thickened.",
+          "Serve hot with steamed rice."
+        ]
+      },
+      {
+        "name": "Jasha maroo",
+        "description": "A Bhutanese chicken dish with ginger, garlic, and chili peppers.",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+          "1 tablespoon vegetable oil",
+          "1 onion, sliced",
+          "2 garlic cloves, minced",
+          "1 tablespoon ginger, minced",
+          "3-4 fresh red chili peppers, stemmed and sliced",
+          "1/2 teaspoon salt",
+          "1/2 teaspoon turmeric",
+          "1/2 cup water",
+          "1/4 cup chopped fresh cilantro"
+        ],
+        "instructions": [
+          "In a large pan or wok, heat the vegetable oil over medium-high heat.",
+          "Add the chicken and stir-fry until lightly browned.",
+          "Add the onion, garlic, ginger, and chili peppers and continue cooking until the onion is translucent.",
+          "Add the salt, turmeric, and water and bring to a simmer.",
+          "Cover and cook for 10-15 minutes, or until the chicken is cooked through and the sauce has thickened.",
+          "Stir in the chopped cilantro and serve hot with steamed rice."
+        ]
+      }
+    ]
+  },
+  "Bolivia": {
+    "recipes": [
+      {
+        "name": "Salteñas",
+        "description": "A savory Bolivian pastry filled with beef, vegetables, and spices.",
+        "ingredients": [
+          "1 pound beef, diced",
+          "1/2 cup chopped onion",
+          "1/4 cup chopped green onion",
+          "1/4 cup chopped fresh cilantro",
+          "1/4 cup diced potatoes",
+          "1/4 cup diced carrots",
+          "1/4 cup green peas",
+          "1/4 cup diced red bell pepper",
+          "2 garlic cloves, minced",
+          "1 tablespoon vegetable oil",
+          "1 tablespoon ground cumin",
+          "1 tablespoon dried oregano",
+          "1 teaspoon ground paprika",
+          "1/4 teaspoon cayenne pepper",
+          "1/2 cup beef broth",
+          "Salt and pepper to taste",
+          "1 package empanada dough"
+        ],
+        "instructions": [
+          "In a large skillet, heat the oil over medium-high heat.",
+          "Add the beef and cook until browned, about 5 minutes.",
+          "Add the onion, green onion, cilantro, potatoes, carrots, peas, red bell pepper, and garlic.",
+          "Cook until the vegetables are soft, about 5-7 minutes.",
+          "Add the cumin, oregano, paprika, and cayenne pepper and stir to combine.",
+          "Pour in the beef broth and bring to a simmer.",
+          "Season with salt and pepper to taste.",
+          "Preheat the oven to 375°F.",
+          "Fill the empanada dough with the beef mixture and seal the edges.",
+          "Place the salteñas on a baking sheet and bake for 20-25 minutes, or until golden brown."
+        ]
+      },
+      {
+        "name": "Pique a lo macho",
+        "description": "A hearty Bolivian dish of sautéed beef, onions, and peppers topped with a spicy sauce and served with boiled potatoes.",
+        "ingredients": [
+          "1 pound beef sirloin, sliced",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "1 onion, sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "2 tomatoes, diced",
+          "2 garlic cloves, minced",
+          "1 tablespoon ground cumin",
+          "1 tablespoon dried oregano",
+          "1 tablespoon paprika",
+          "1/2 cup beef broth",
+          "2 tablespoons white vinegar",
+          "2 tablespoons chopped fresh parsley",
+          "2 tablespoons chopped fresh cilantro",
+          "2 boiled potatoes, sliced"
+        ],
+        "instructions": [
+          "Season the beef with salt and pepper.",
+          "In a large skillet, heat the oil over high heat.",
+          "Add the beef and cook until browned on all sides, about 5-7 minutes.",
+          "Remove the beef from the skillet and set aside.",
+          "Add the onion, red and green bell peppers, and garlic to the skillet and cook until soft, about 5 minutes.",
+          "Add the tomatoes, cumin, oregano, and paprika and stir to combine.",
+          "Pour in the beef broth and bring to a simmer.",
+          "Add the beef back to the skillet and stir to combine.",
+          "Simmer for 10-15 minutes, or until the beef is cooked through and the sauce has thickened.",
+          "Stir in the white vinegar, parsley, and cilantro.",
+          "Serve the beef mixture"
+        ]
+      }
+    ]
+  },
+  "Bosnia and Herzegovina": {
+    "recipes": [
+      {
+        "name": "Cevapi",
+        "description": "A popular grilled dish of minced meat served with flatbread and onions.",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 pound ground lamb",
+          "1/2 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "1/2 teaspoon black pepper",
+          "1/2 teaspoon paprika",
+          "1/2 teaspoon garlic powder",
+          "1/2 teaspoon onion powder",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 cup water",
+          "Flatbread or pita bread",
+          "Sliced onions for serving"
+        ],
+        "instructions": [
+          "In a large bowl, mix together the ground beef, ground lamb, baking soda, salt, black pepper, paprika, garlic powder, onion powder, cayenne pepper, and water.",
+          "Form the mixture into small sausage-shaped pieces, about 3-4 inches long.",
+          "Heat a grill or grill pan over medium-high heat.",
+          "Grill the cevapi for 5-6 minutes per side, or until browned and cooked through.",
+          "Serve the cevapi with flatbread or pita bread and sliced onions."
+        ]
+      },
+      {
+        "name": "Burek",
+        "description": "A savory pastry filled with meat and vegetables.",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, finely chopped",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon paprika",
+          "1/4 teaspoon cayenne pepper",
+          "1/4 teaspoon ground cumin",
+          "1/4 teaspoon ground coriander",
+          "1/2 cup water",
+          "1/2 cup sour cream",
+          "1/2 cup plain yogurt",
+          "1/2 cup feta cheese, crumbled",
+          "1/2 cup butter, melted",
+          "1 package phyllo dough, thawed"
+        ],
+        "instructions": [
+          "Preheat the oven to 375°F.",
+          "In a large bowl, mix together the ground beef, onion, salt, black pepper, paprika, cayenne pepper, ground cumin, ground coriander, and water.",
+          "In a separate bowl, mix together the sour cream, yogurt, and feta cheese.",
+          "Unroll the phyllo dough and brush each sheet with melted butter.",
+          "Place a layer of the phyllo dough in a baking dish, letting the edges hang over the sides of the dish.",
+          "Spread a layer of the meat mixture over the phyllo dough.",
+          "Spread a layer of the sour cream mixture over the meat.",
+          "Repeat with additional layers of phyllo dough, meat mixture, and sour cream mixture, until all ingredients are used.",
+          "Fold the overhanging edges of the phyllo dough over the top of the burek.",
+          "Bake for 45-50 minutes, or until the phyllo dough is golden brown and crispy.",
+          "Allow the burek to cool for 5-10 minutes before serving."
+        ]
+      }
+    ]
+  },
+  "Botswana": {
+    "recipes": [
+      {
+        "name": "Seswaa",
+        "description": "A traditional Botswanan meat stew made with beef and served with maize porridge.",
+        "ingredients": [
+          "2 lbs beef, cut into chunks",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "2 cups water",
+          "Salt and pepper to taste",
+          "Maize porridge, for serving"
+        ],
+        "instructions": [
+          "In a large pot, combine the beef, onion, garlic, and water.",
+          "Bring to a boil over medium heat, then reduce the heat and simmer for 2-3 hours, or until the beef is very tender.",
+          "Remove the beef from the pot and shred with a fork.",
+          "Return the beef to the pot and season with salt and pepper to taste.",
+          "Serve hot with maize porridge."
+        ]
+      },
+      {
+        "name": "Seswaa Dip",
+        "description": "A flavorful Botswanan dip made with beef and served with crackers or bread.",
+        "ingredients": [
+          "1 lb beef, cooked and shredded",
+          "1/2 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tablespoon tomato paste",
+          "1 tablespoon Worcestershire sauce",
+          "1 tablespoon soy sauce",
+          "1 tablespoon hot sauce",
+          "1/4 cup beef broth",
+          "Salt and pepper to taste",
+          "Crackers or bread, for serving"
+        ],
+        "instructions": [
+          "In a large bowl, combine the shredded beef, onion, garlic, tomato paste, Worcestershire sauce, soy sauce, hot sauce, and beef broth.",
+          "Mix well and season with salt and pepper to taste.",
+          "Cover and refrigerate for at least 1 hour to allow the flavors to meld.",
+          "Serve cold with crackers or bread."
+        ]
+      }
+    ]
+  },
+  "Brazil": {
+    "recipes": [
+      {
+        "name": "Feijoada",
+        "description": "A classic Brazilian stew made with black beans, beef, and pork.",
+        "ingredients": [
+          "1 pound dried black beans",
+          "1 pound beef chuck, cut into 1-inch cubes",
+          "1/2 pound pork shoulder, cut into 1-inch cubes",
+          "1/2 pound smoked sausage, sliced",
+          "1/2 pound bacon, diced",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "2 bay leaves",
+          "1 teaspoon dried oregano",
+          "1 teaspoon ground cumin",
+          "Salt and pepper to taste",
+          "2 oranges, sliced",
+          "Cooked white rice for serving",
+          "Chopped fresh cilantro for garnish"
+        ],
+        "instructions": [
+          "Rinse the black beans and place them in a large pot. Add enough water to cover the beans by 2 inches.",
+          "Bring the beans to a boil over high heat, then reduce the heat to low and simmer for 1 hour.",
+          "Add the beef, pork, sausage, bacon, onion, garlic, bay leaves, oregano, cumin, salt, and pepper to the pot.",
+          "Add enough water to cover the ingredients by 1 inch. Bring to a simmer and cook for 2-3 hours, or until the beans and meats are tender.",
+          "Remove the bay leaves and discard. Serve the feijoada with white rice and orange slices. Garnish with cilantro."
+        ]
+      },
+      {
+        "name": "Pão de Queijo",
+        "description": "A popular Brazilian cheese bread made with tapioca flour.",
+        "ingredients": [
+          "2 cups tapioca flour",
+          "1/2 cup vegetable oil",
+          "1/2 cup milk",
+          "1/2 teaspoon salt",
+          "1 egg",
+          "1 cup grated cheese (such as Parmesan or cheddar)"
+        ],
+        "instructions": [
+          "Preheat the oven to 400°F.",
+          "In a medium saucepan, combine the tapioca flour, vegetable oil, milk, and salt.",
+          "Cook over medium heat, stirring constantly, until the mixture forms a ball and pulls away from the sides of the pan, about 5 minutes.",
+          "Remove the pan from the heat and let the mixture cool for a few minutes.",
+          "Add the egg and mix until smooth.",
+          "Stir in the grated cheese.",
+          "Scoop tablespoon-sized balls of the dough onto a baking sheet lined with parchment paper, leaving about 2 inches between each ball.",
+          "Bake for 15-20 minutes, or until the pão de queijo are puffed and golden brown.",
+          "Serve warm or at room temperature."
+        ]
+      }
+    ]
+  },
+  "Bulgaria": {
+    "recipes": [
+      {
+        "name": "Banitsa",
+        "description": "A traditional Bulgarian pastry filled with cheese and eggs.",
+        "ingredients": [
+          "1 package phyllo dough",
+          "1/2 cup unsalted butter, melted",
+          "2 cups Bulgarian feta cheese, crumbled",
+          "3 eggs, beaten",
+          "1 cup plain Greek yogurt",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F.",
+          "Mix together the feta cheese, eggs, yogurt, salt, and pepper in a large bowl.",
+          "Layer 6 sheets of phyllo dough in a greased 9x13 inch baking dish, brushing each sheet with melted butter.",
+          "Spread half of the cheese mixture on top of the phyllo dough.",
+          "Layer another 6 sheets of phyllo dough on top of the cheese mixture, brushing each sheet with melted butter.",
+          "Spread the remaining cheese mixture on top of the phyllo dough.",
+          "Layer the remaining 6 sheets of phyllo dough on top of the cheese mixture, brushing each sheet with melted butter.",
+          "Brush the top of the banitsa with melted butter.",
+          "Bake for 35-40 minutes, or until golden brown."
+        ]
+      },
+      {
+        "name": "Shopska salad",
+        "description": "A fresh and colorful Bulgarian salad with tomatoes, cucumbers, peppers, onions, and feta cheese.",
+        "ingredients": [
+          "3 large tomatoes, diced",
+          "2 cucumbers, peeled and diced",
+          "1 green pepper, seeded and diced",
+          "1 red onion, diced",
+          "1/2 cup Bulgarian feta cheese, crumbled",
+          "2 tablespoons olive oil",
+          "1 tablespoon red wine vinegar",
+          "Salt and pepper to taste",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "instructions": [
+          "In a large bowl, combine the diced tomatoes, cucumbers, green pepper, and red onion.",
+          "Add the crumbled feta cheese and toss to combine.",
+          "Drizzle with olive oil and red wine vinegar.",
+          "Season with salt and pepper to taste.",
+          "Sprinkle chopped fresh parsley on top and serve."
+        ]
+      }
+    ]
+  },
+  "Burkina Faso": {
+    "recipes": [
+      {
+        "name": "Riz Gras (Jollof Rice)",
+        "description": "A flavorful one-pot rice dish made with vegetables, tomato paste, and spices.",
+        "ingredients": [
+          "2 cups long-grain rice",
+          "4 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "2 cups chicken broth",
+          "1/2 cup tomato paste",
+          "1 green bell pepper, diced",
+          "1 red bell pepper, diced",
+          "1 jalapeno pepper, seeded and minced",
+          "1 teaspoon smoked paprika",
+          "1/2 teaspoon cumin",
+          "1/2 teaspoon dried thyme",
+          "Salt and pepper to taste",
+          "Chopped fresh cilantro for garnish"
+        ],
+        "instructions": [
+          "In a large pot, heat the oil over medium heat.",
+          "Add the onion and garlic and cook until soft, about 5 minutes.",
+          "Add the rice and stir to coat with the oil.",
+          "Add the chicken broth, tomato paste, bell peppers, jalapeno pepper, smoked paprika, cumin, thyme, salt, and pepper.",
+          "Bring to a boil, then reduce the heat to low and cover the pot.",
+          "Simmer for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+          "Fluff the rice with a fork and garnish with cilantro before serving."
+        ]
+      },
+      {
+        "name": "Poulet Bicyclette (Grilled Chicken)",
+        "description": "A popular street food in Burkina Faso made with marinated chicken and grilled to perfection.",
+        "ingredients": [
+          "2 pounds chicken legs and thighs",
+          "1/4 cup vegetable oil",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1/4 cup lemon juice",
+          "1/4 cup soy sauce",
+          "1 tablespoon ground ginger",
+          "1 tablespoon paprika",
+          "1/2 teaspoon cayenne pepper",
+          "Salt and pepper to taste",
+          "Lime wedges for serving"
+        ],
+        "instructions": [
+          "In a large bowl, combine the vegetable oil, onion, garlic, lemon juice, soy sauce, ginger, paprika, cayenne pepper, salt, and pepper.",
+          "Add the chicken and turn to coat well with the marinade.",
+          "Cover and refrigerate for at least 2 hours or overnight.",
+          "Preheat the grill to medium-high heat.",
+          "Remove the chicken from the marinade and discard the marinade.",
+          "Grill the chicken for 10-12 minutes per side, or until cooked through.",
+          "Serve with lime wedges for squeezing over the chicken."
+        ]
+      }
+    ]
+  },
+  "Burundi": {
+    "recipes": [
+      {
+        "name": "Beans and Plantains Stew",
+        "description": "A hearty and comforting stew made with beans and plantains, often served with rice or bread.",
+        "ingredients": [
+          "2 cups red beans, soaked overnight",
+          "2 ripe plantains, peeled and sliced",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tablespoon tomato paste",
+          "2 cups water",
+          "2 tablespoons vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large pot, heat the vegetable oil over medium-high heat.",
+          "Add the onion and garlic and cook until soft.",
+          "Add the tomato paste and stir to combine.",
+          "Add the beans, plantains, and water.",
+          "Bring the mixture to a boil, then reduce the heat and simmer for 45-60 minutes, or until the beans and plantains are tender.",
+          "Season with salt and pepper to taste.",
+          "Serve hot with rice or bread."
+        ]
+      },
+      {
+        "name": "Brochettes",
+        "description": "A popular street food in Burundi, brochettes are skewers of marinated and grilled meat, usually served with a spicy dipping sauce.",
+        "ingredients": [
+          "2 pounds beef or goat, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "2 garlic cloves, minced",
+          "1 tablespoon paprika",
+          "1 tablespoon cumin",
+          "1 teaspoon coriander",
+          "1 teaspoon salt",
+          "1/2 teaspoon black pepper",
+          "1/2 cup vegetable oil",
+          "1/4 cup red wine vinegar",
+          "Wooden skewers, soaked in water for at least 30 minutes"
+        ],
+        "instructions": [
+          "In a large bowl, combine the beef or goat, onions, garlic, paprika, cumin, coriander, salt, black pepper, vegetable oil, and red wine vinegar.",
+          "Cover the bowl and marinate in the refrigerator for at least 2 hours, or overnight.",
+          "Preheat the grill or a grill pan over high heat.",
+          "Thread the meat onto the wooden skewers.",
+          "Grill the skewers for 3-4 minutes per side, or until the meat is cooked to your liking.",
+          "Serve hot with a spicy dipping sauce, if desired."
+        ]
+      }
+    ]
+  },
+  "Cambodia": {
+    "recipes": [
+      {
+        "name": "Amok Trey",
+        "description": "A classic Cambodian dish of fish and spices steamed in a banana leaf.",
+        "ingredients": [
+          "1 lb white fish fillet, cut into bite-sized pieces",
+          "1 cup coconut milk",
+          "1 egg",
+          "1 tbsp red curry paste",
+          "1 tbsp fish sauce",
+          "1 tsp sugar",
+          "1/4 tsp salt",
+          "1 tbsp lime juice",
+          "1 tbsp vegetable oil",
+          "2 tbsp sliced scallions",
+          "1 tbsp chopped cilantro",
+          "1 banana leaf"
+        ],
+        "instructions": [
+          "In a blender, combine coconut milk, egg, red curry paste, fish sauce, sugar, salt, and lime juice. Blend until smooth.",
+          "Heat the vegetable oil in a large skillet over medium heat. Add the scallions and cook for 1-2 minutes.",
+          "Add the fish to the skillet and cook until lightly browned, about 3-4 minutes.",
+          "Add the coconut milk mixture to the skillet and stir to combine. Cook for 2-3 minutes, or until the sauce thickens slightly.",
+          "Remove from heat and stir in the cilantro.",
+          "Cut the banana leaf into 4 equal pieces. Place each piece on a flat surface and spoon a portion of the fish mixture onto each leaf.",
+          "Fold the sides of the leaf up and over the mixture to form a package, tucking the edges under to seal.",
+          "Place the packages in a steamer basket and steam for 15-20 minutes.",
+          "Remove from the steamer and let cool slightly before serving."
+        ]
+      },
+      {
+        "name": "Bai Sach Chrouk",
+        "description": "A popular Cambodian breakfast dish of grilled pork and rice.",
+        "ingredients": [
+          "1 lb pork shoulder, sliced into thin strips",
+          "1 tbsp vegetable oil",
+          "2 tbsp soy sauce",
+          "2 tbsp fish sauce",
+          "2 tbsp sugar",
+          "1/4 tsp black pepper",
+          "3 garlic cloves, minced",
+          "2 cups cooked white rice",
+          "1/2 cup sliced cucumber",
+          "1/4 cup sliced scallions",
+          "1/4 cup chopped cilantro",
+          "Lime wedges for serving"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together soy sauce, fish sauce, sugar, black pepper, and garlic.",
+          "Add the pork to the bowl and toss to coat with the marinade. Let marinate for at least 30 minutes, or overnight in the refrigerator.",
+          "Heat a grill or grill pan over medium-high heat. Brush the grill with vegetable oil.",
+          "Remove the pork from the marinade and grill for 2-3 minutes per side, or until cooked through.",
+          "Divide the rice among four plates. Top each plate with the grilled pork, sliced cucumber, scallions, and cilantro.",
+          "Serve with lime wedges on the side."
+        ]
+      }
+    ]
+  },
+  "Cameroon": {
+    "recipes": [
+      {
+        "name": "Ndolé",
+        "description": "A stew made with bitter leaves, peanuts, and either fish, beef, or chicken.",
+        "ingredients": [
+          "1 pound bitter leaves",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "2 tablespoons vegetable oil",
+          "1 can (14.5 ounces) diced tomatoes, undrained",
+          "1 tablespoon tomato paste",
+          "1/2 cup unsalted peanut butter",
+          "1 pound beef, chicken, or fish, cut into small pieces",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Wash the bitter leaves in cold water and chop them finely.",
+          "In a large pot, sauté the onion and garlic in the vegetable oil until softened.",
+          "Add the diced tomatoes and tomato paste and cook for 5 minutes.",
+          "Add the peanut butter and 2 cups of water and stir well to combine.",
+          "Add the bitter leaves and the meat or fish and season with salt and pepper.",
+          "Simmer for 30-40 minutes or until the meat or fish is cooked through and the sauce has thickened.",
+          "Serve hot with boiled plantains or rice."
+        ]
+      },
+      {
+        "name": "Suya",
+        "description": "A spicy grilled meat dish served with onions and tomatoes.",
+        "ingredients": [
+          "2 pounds beef or chicken, cut into thin strips",
+          "1/2 cup groundnut (peanut) oil",
+          "1/4 cup ground ginger",
+          "1/4 cup ground cumin",
+          "1/4 cup paprika",
+          "1 tablespoon cayenne pepper",
+          "1 tablespoon garlic powder",
+          "1 tablespoon onion powder",
+          "1 teaspoon salt",
+          "1/2 teaspoon black pepper",
+          "1/2 cup chopped onions",
+          "1/2 cup chopped tomatoes"
+        ],
+        "instructions": [
+          "In a bowl, combine the groundnut oil, ginger, cumin, paprika, cayenne pepper, garlic powder, onion powder, salt, and black pepper.",
+          "Add the meat strips to the bowl and toss to coat with the spice mixture.",
+          "Thread the meat onto skewers and grill over medium-high heat for 10-12 minutes, turning occasionally, until cooked through.",
+          "Serve hot with chopped onions and tomatoes."
+        ]
+      }
+    ]
+  },
+  "Canada": {
+    "recipes": [
+      {
+        "name": "Poutine",
+        "description": "A Canadian dish made with french fries, cheese curds, and gravy.",
+        "ingredients": [
+          "2 pounds russet potatoes, peeled and cut into fries",
+          "Vegetable oil for frying",
+          "1 cup cheese curds",
+          "2 cups beef gravy"
+        ],
+        "instructions": [
+          "Preheat the oven to 200°F.",
+          "In a large pot, heat the oil to 325°F.",
+          "Add the potato fries and cook until soft, but not brown, about 4-5 minutes.",
+          "Remove the fries from the pot and drain on paper towels.",
+          "Increase the oil temperature to 375°F.",
+          "Add the fries back to the pot and cook until golden brown, about 2-3 minutes.",
+          "Remove the fries from the pot and drain on paper towels.",
+          "In a large saucepan, heat the beef gravy over low heat.",
+          "Divide the fries among serving plates.",
+          "Top the fries with the cheese curds and pour the hot gravy over the top.",
+          "Place the plates in the oven to keep warm until ready to serve."
+        ]
+      },
+      {
+        "name": "Maple-Glazed Salmon",
+        "description": "A Canadian twist on salmon, made with a sweet and savory maple glaze.",
+        "ingredients": [
+          "4 salmon fillets",
+          "Salt and pepper to taste",
+          "1/4 cup maple syrup",
+          "1/4 cup soy sauce",
+          "2 cloves garlic, minced",
+          "1 teaspoon grated ginger",
+          "2 tablespoons olive oil",
+          "2 green onions, thinly sliced"
+        ],
+        "instructions": [
+          "Season the salmon with salt and pepper on both sides.",
+          "In a small bowl, whisk together the maple syrup, soy sauce, garlic, and ginger.",
+          "Heat the olive oil in a large skillet over medium-high heat.",
+          "Add the salmon fillets to the skillet, skin side down.",
+          "Cook for 4-5 minutes, or until the skin is crispy and the salmon is cooked halfway through.",
+          "Turn the salmon over and brush the top with the maple glaze.",
+          "Cook for another 2-3 minutes, or until the salmon is cooked through.",
+          "Remove the salmon from the skillet and drizzle with the remaining glaze.",
+          "Garnish with sliced green onions and serve immediately."
+        ]
+      }
+    ]
+  },
+  "Cape Verde": {
+    "recipes": [
+      {
+        "name": "Cachupa",
+        "description": "A slow-cooked stew made with corn, beans, and meat or fish.",
+        "ingredients": [
+          "1 pound corn kernels, soaked overnight",
+          "1 pound beans, soaked overnight",
+          "1 pound beef or fish, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "2 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "2 bay leaves",
+          "2 tablespoons vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large pot, heat the vegetable oil over medium heat.",
+          "Add the onions and garlic and cook until soft.",
+          "Add the meat or fish and cook until browned.",
+          "Add the corn, beans, tomatoes, bay leaves, and enough water to cover the ingredients.",
+          "Bring the mixture to a boil and then reduce the heat to low.",
+          "Simmer the stew for about 2 hours, stirring occasionally.",
+          "Season with salt and pepper to taste.",
+          "Serve hot with bread."
+        ]
+      },
+      {
+        "name": "Pastel",
+        "description": "A popular Cape Verdean street food made with a filling of tuna or chicken, wrapped in dough, and fried.",
+        "ingredients": [
+          "1 can of tuna or 1 pound of chicken breast, cooked and shredded",
+          "2 onions, chopped",
+          "2 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "2 tablespoons vegetable oil",
+          "1/2 teaspoon paprika",
+          "Salt and pepper to taste",
+          "1 pound all-purpose flour",
+          "1/2 cup water",
+          "Vegetable oil for frying"
+        ],
+        "instructions": [
+          "In a large skillet, heat the vegetable oil over medium heat.",
+          "Add the onions and garlic and cook until soft.",
+          "Add the tuna or chicken, tomatoes, paprika, salt, and pepper.",
+          "Cook for about 10 minutes, stirring occasionally.",
+          "Set aside the filling and let it cool.",
+          "In a bowl, combine the flour and water to form a dough.",
+          "Roll the dough into small balls and flatten them into circles.",
+          "Place a spoonful of the filling in the center of each circle.",
+          "Fold the dough over the filling and press the edges to seal.",
+          "In a deep fryer or large pot, heat the vegetable oil to 375°F.",
+          "Fry the pastels until golden brown, about 3-5 minutes.",
+          "Remove the pastels from the oil and drain on paper towels.",
+          "Serve hot."
+        ]
+      }
+    ]
+  },
+  "Cayman Islands": {
+    "recipes": [
+      {
+        "name": "Cayman-style turtle stew",
+        "description": "A traditional stew made with turtle meat and vegetables.",
+        "ingredients": [
+          "2 lbs turtle meat, cut into cubes",
+          "2 onions, chopped",
+          "2 bell peppers, chopped",
+          "2 tomatoes, chopped",
+          "4 cloves garlic, minced",
+          "1 scotch bonnet pepper, seeded and minced",
+          "2 tbsp tomato paste",
+          "2 cups fish or chicken broth",
+          "2 cups water",
+          "2 tsp thyme",
+          "2 bay leaves",
+          "2 tbsp vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large pot, heat the vegetable oil over medium heat.",
+          "Add the turtle meat and cook until browned on all sides.",
+          "Add the onions, bell peppers, tomatoes, garlic, and scotch bonnet pepper.",
+          "Cook for 5-7 minutes, or until the vegetables are soft.",
+          "Stir in the tomato paste, fish or chicken broth, water, thyme, bay leaves, salt, and pepper.",
+          "Bring the stew to a simmer and cook for 1-2 hours, or until the turtle meat is tender.",
+          "Serve hot with rice or bread."
+        ]
+      },
+      {
+        "name": "Conch fritters",
+        "description": "A popular appetizer made with conch meat, flour, and spices.",
+        "ingredients": [
+          "1 lb conch meat, cleaned and minced",
+          "1 cup all-purpose flour",
+          "1 tsp baking powder",
+          "1 tsp salt",
+          "1 tsp paprika",
+          "1/2 tsp garlic powder",
+          "1/2 tsp onion powder",
+          "1/2 tsp dried thyme",
+          "1/4 tsp cayenne pepper",
+          "1/4 cup milk",
+          "1/4 cup water",
+          "1 egg, beaten",
+          "2 tbsp chopped onion",
+          "2 tbsp chopped green bell pepper",
+          "2 tbsp chopped red bell pepper",
+          "Vegetable oil for frying"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the flour, baking powder, salt, paprika, garlic powder, onion powder, dried thyme, and cayenne pepper.",
+          "In another bowl, whisk together the milk, water, and egg.",
+          "Stir the conch meat, chopped onion, green bell pepper, and red bell pepper into the flour mixture.",
+          "Pour the milk mixture into the flour mixture and stir until well combined.",
+          "In a deep fryer or large pot, heat the vegetable oil to 375°F.",
+          "Using a spoon or small scoop, drop spoonfuls of the batter into the hot oil.",
+          "Fry until golden brown, about 2-3 minutes per side.",
+          "Remove the fritters from the oil and drain on paper towels.",
+          "Serve hot with tartar sauce or hot sauce."
+        ]
+      }
+    ]
+  },
+  "Central African Republic": {
+    "recipes": [
+      {
+        "name": "Kanda ti nyma",
+        "description": "A spicy beef stew made with peanut butter and served over rice.",
+        "ingredients": [
+          "2 pounds beef stew meat, cut into bite-sized pieces",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "1 tablespoon grated ginger",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1 teaspoon ground cinnamon",
+          "1 teaspoon paprika",
+          "1/2 teaspoon cayenne pepper",
+          "2 cups beef broth",
+          "1/2 cup creamy peanut butter",
+          "1/4 cup tomato paste",
+          "4 cups cooked rice",
+          "Chopped peanuts and fresh cilantro for garnish"
+        ],
+        "instructions": [
+          "Season the beef with salt and pepper.",
+          "In a large Dutch oven, heat the vegetable oil over medium-high heat.",
+          "Add the beef in batches and brown on all sides. Set aside.",
+          "Add the onion, garlic, ginger, cumin, coriander, cinnamon, paprika, and cayenne pepper to the pot.",
+          "Cook, stirring occasionally, until the onion is soft and the spices are fragrant, about 5 minutes.",
+          "Add the beef broth, peanut butter, and tomato paste to the pot and whisk until smooth.",
+          "Return the beef to the pot and bring to a simmer.",
+          "Cover the pot and cook over low heat until the beef is tender, about 2-3 hours.",
+          "Serve the beef stew over cooked rice, garnished with chopped peanuts and fresh cilantro."
+        ]
+      },
+      {
+        "name": "Brochettes",
+        "description": "Skewered and grilled meat marinated in a spicy peanut sauce.",
+        "ingredients": [
+          "1 pound beef or chicken, cut into bite-sized pieces",
+          "Salt and pepper to taste",
+          "1/4 cup vegetable oil",
+          "2 tablespoons fresh lime juice",
+          "2 tablespoons soy sauce",
+          "1 tablespoon grated ginger",
+          "1 tablespoon grated garlic",
+          "1/2 teaspoon cayenne pepper",
+          "1/2 cup creamy peanut butter",
+          "1/2 cup coconut milk",
+          "2 tablespoons honey",
+          "1 tablespoon rice vinegar",
+          "1 tablespoon sriracha sauce",
+          "Bamboo skewers, soaked in water for 30 minutes"
+        ],
+        "instructions": [
+          "Season the meat with salt and pepper.",
+          "In a large bowl, whisk together the vegetable oil, lime juice, soy sauce, ginger, garlic, and cayenne pepper.",
+          "Add the meat to the bowl and toss to coat. Cover and refrigerate for at least 30 minutes, or up to 2 hours.",
+          "In a small saucepan, whisk together the peanut butter, coconut milk, honey, rice vinegar, and sriracha sauce.",
+          "Cook over low heat, stirring frequently, until the sauce is smooth and heated through, about 5 minutes.",
+          "Preheat a grill or grill pan to medium-high heat.",
+          "Thread the meat onto the bamboo skewers, discarding any excess marinade.",
+          "Grill the skewers, turning occasionally, until the meat is cooked through and charred in spots, about 8-10 minutes.",
+          "Serve the skewers with the spicy peanut sauce on the side."
+        ]
+      }
+    ]
+  },
+  "Chad": {
+    "recipes": [
+      {
+        "name": "Djiboutilou",
+        "description": "A hearty and flavorful stew made with lamb, vegetables, and African spices.",
+        "ingredients": [
+          "2 pounds lamb stew meat, cut into bite-sized pieces",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "2 tomatoes, chopped",
+          "2 tablespoons tomato paste",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1 teaspoon ground ginger",
+          "1 teaspoon paprika",
+          "1/2 teaspoon ground cinnamon",
+          "1/4 teaspoon cayenne pepper",
+          "2 cups water or lamb broth",
+          "2 potatoes, peeled and chopped",
+          "2 carrots, peeled and chopped",
+          "1 bell pepper, seeded and chopped",
+          "1/2 cup chopped fresh parsley",
+          "Cooked rice for serving"
+        ],
+        "instructions": [
+          "Season the lamb with salt and pepper.",
+          "In a large Dutch oven, heat the vegetable oil over medium-high heat.",
+          "Add the lamb in batches and brown on all sides. Set aside.",
+          "Add the onion, garlic, and tomatoes to the pot and cook until the vegetables are soft, about 5 minutes.",
+          "Add the tomato paste, cumin, coriander, ginger, paprika, cinnamon, and cayenne pepper to the pot and cook for another 2-3 minutes.",
+          "Return the lamb to the pot and add enough water or lamb broth to cover the meat. Bring to a simmer.",
+          "Cover the pot and cook over low heat for about 1 hour, until the lamb is tender.",
+          "Add the potatoes, carrots, and bell pepper to the pot and cook for another 20-30 minutes, until the vegetables are tender.",
+          "Stir in the chopped parsley and serve the stew over cooked rice."
+        ]
+      }
+    ]
+  },
+  "Chile": {
+    "recipes": [
+      {
+        "name": "Pastel de Choclo",
+        "description": "A savory pie made with ground beef, onions, and corn.",
+        "ingredients": [
+          "4 cups fresh corn kernels (about 6 ears of corn)",
+          "1/2 cup milk",
+          "1 tablespoon sugar",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "1 pound ground beef",
+          "2 cloves garlic, minced",
+          "1 tablespoon paprika",
+          "1 tablespoon cumin",
+          "1/2 teaspoon dried oregano",
+          "1/2 cup raisins",
+          "1/2 cup chopped black olives",
+          "6 hard-boiled eggs, sliced",
+          "1/2 cup flour",
+          "1/2 cup butter, softened",
+          "1/2 cup grated Parmesan cheese"
+        ],
+        "instructions": [
+          "Preheat the oven to 375°F.",
+          "In a blender or food processor, puree the corn with the milk and sugar until smooth. Season with salt and pepper to taste.",
+          "In a large skillet, heat the oil over medium-high heat. Add the onion and cook until softened, about 5 minutes.",
+          "Add the ground beef, garlic, paprika, cumin, oregano, raisins, and olives to the skillet. Cook, stirring occasionally, until the beef is browned and cooked through, about 10 minutes.",
+          "Spread the beef mixture in the bottom of a 9-inch baking dish. Top with the sliced eggs.",
+          "Pour the corn mixture over the beef and eggs.",
+          "In a small bowl, mix together the flour, butter, and Parmesan cheese until crumbly. Sprinkle the mixture over the top of the corn.",
+          "Bake for 30-35 minutes, or until the top is golden brown and the filling is heated through.",
+          "Let cool for a few minutes before serving."
+        ]
+      }
+    ]
+  },
+  "China": {
+    "recipes": [
+      {
+        "name": "Kung Pao Chicken",
+        "description": "A spicy stir-fry dish with chicken, peanuts, and vegetables, served over rice.",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breast, cut into bite-sized pieces",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "1 red bell pepper, seeded and chopped",
+          "1 green bell pepper, seeded and chopped",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "1 tablespoon grated ginger",
+          "1 teaspoon Sichuan peppercorns, crushed",
+          "1/2 teaspoon red pepper flakes",
+          "1/2 cup roasted peanuts",
+          "4 green onions, thinly sliced",
+          "Cooked rice, for serving"
+        ],
+        "instructions": [
+          "Season the chicken with salt and pepper.",
+          "In a large wok or skillet, heat the vegetable oil over high heat.",
+          "Add the chicken and stir-fry until browned and cooked through, about 5 minutes. Transfer to a plate.",
+          "Add the bell peppers and onion to the wok and stir-fry until crisp-tender, about 3 minutes.",
+          "Add the garlic, ginger, Sichuan peppercorns, and red pepper flakes to the wok and stir-fry for 30 seconds.",
+          "Add the chicken back to the wok and stir-fry for 1 minute.",
+          "Add the roasted peanuts and green onions to the wok and stir-fry for 1 minute.",
+          "Serve the Kung Pao chicken over cooked rice."
+        ]
+      },
+      {
+        "name": "Steamed Dumplings",
+        "description": "Small parcels of meat and vegetables wrapped in thin dough and steamed, served with dipping sauce.",
+        "ingredients": [
+          "1 pound ground pork",
+          "2 tablespoons soy sauce",
+          "2 tablespoons Chinese rice wine or dry sherry",
+          "1 tablespoon grated ginger",
+          "1 tablespoon grated garlic",
+          "1/2 teaspoon ground Sichuan peppercorns",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon sugar",
+          "1 cup finely chopped cabbage",
+          "1/2 cup chopped scallions",
+          "1/4 cup chopped cilantro",
+          "40 dumpling wrappers",
+          "Soy sauce and rice vinegar, for dipping"
+        ],
+        "instructions": [
+          "In a large bowl, mix together the ground pork, soy sauce, rice wine or sherry, ginger, garlic, Sichuan peppercorns, salt, and sugar.",
+          "Add the chopped cabbage, scallions, and cilantro to the bowl and mix well.",
+          "Fill a small bowl with water and set it next to your work surface.",
+          "To assemble the dumplings, place a wrapper in the palm of your hand and add a small spoonful of filling to the center.",
+          "Dip your finger in the bowl of water and moisten the edges of the wrapper.",
+          "Fold the wrapper in half, pinching the edges together to seal.",
+          "Pleat the edges of the wrapper, if desired.",
+          "Repeat with the remaining wrappers and filling.",
+          "Arrange the dumplings in a steamer basket lined with parchment paper.",
+          "Fill a wok or pot with water and bring to a boil.",
+          "Set the steamer basket over the water and steam the dumplings for 10-12 minutes, or until cooked through.",
+          "Serve Hot"
+        ]
+      }
+    ]
+  },
+  "Christmas Island": {
+    "recipes": [
+      {
+        "name": "Crab and Coconut Curry",
+        "description": "A delicious and fragrant crab curry with coconut milk.",
+        "ingredients": [
+          "1 lb crab meat",
+          "1 onion, finely chopped",
+          "2 garlic cloves, minced",
+          "2 tbsp vegetable oil",
+          "1 tsp turmeric powder",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp chili powder",
+          "1 cup coconut milk",
+          "1/2 cup water",
+          "1 tsp salt",
+          "1 tsp sugar",
+          "2 tbsp lime juice",
+          "2 tbsp chopped fresh cilantro",
+          "Steamed rice for serving"
+        ],
+        "instructions": [
+          "Heat the oil in a large pan over medium-high heat.",
+          "Add the onion and garlic and sauté until soft and translucent, about 5 minutes.",
+          "Add the turmeric, cumin, coriander, and chili powder and sauté for another minute.",
+          "Add the crab meat to the pan and sauté until slightly browned, about 3-4 minutes.",
+          "Add the coconut milk, water, salt, and sugar to the pan and bring to a boil.",
+          "Reduce the heat to low and simmer for 10-15 minutes, until the sauce has thickened and the crab is fully cooked.",
+          "Stir in the lime juice and cilantro and serve hot over steamed rice."
+        ]
+      },
+      {
+        "name": "Christmas Island Salad",
+        "description": "A refreshing and colorful salad with tropical flavors.",
+        "ingredients": [
+          "4 cups mixed salad greens",
+          "1 cup chopped fresh pineapple",
+          "1 cup chopped fresh papaya",
+          "1 cup chopped fresh mango",
+          "1/2 cup chopped fresh cilantro",
+          "1/4 cup chopped red onion",
+          "2 tbsp fresh lime juice",
+          "1 tbsp honey",
+          "1 tbsp olive oil",
+          "1 tsp Dijon mustard",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large bowl, combine the salad greens, pineapple, papaya, mango, cilantro, and red onion.",
+          "In a separate bowl, whisk together the lime juice, honey, olive oil, Dijon mustard, salt, and pepper.",
+          "Pour the dressing over the salad and toss to combine.",
+          "Serve immediately."
+        ]
+      }
+    ]
+  },
+  "Cocos (Keeling) Islands": {
+    "recipes": [
+      {
+        "name": "Coconut crab curry",
+        "description": "A delicious and fragrant curry made with fresh coconut meat and local spices, served with steamed rice.",
+        "ingredients": [
+          "1 large coconut crab, cleaned and cut into pieces",
+          "2 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "1 tablespoon grated ginger",
+          "1 teaspoon ground turmeric",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1 teaspoon paprika",
+          "1/2 teaspoon cayenne pepper",
+          "2 cups coconut milk",
+          "2 cups fresh grated coconut meat",
+          "Salt and pepper to taste",
+          "4 cups cooked rice"
+        ],
+        "instructions": [
+          "In a large pot or Dutch oven, heat the vegetable oil over medium-high heat.",
+          "Add the onion, garlic, and ginger to the pot and cook, stirring occasionally, until the onion is soft and fragrant, about 5 minutes.",
+          "Add the turmeric, cumin, coriander, paprika, and cayenne pepper to the pot and cook, stirring constantly, for 1-2 minutes, until fragrant.",
+          "Add the coconut crab pieces to the pot and stir to coat with the spice mixture.",
+          "Add the coconut milk and grated coconut meat to the pot and bring to a simmer.",
+          "Cover the pot and simmer over low heat until the crab is cooked through and tender, about 20-30 minutes.",
+          "Season with salt and pepper to taste.",
+          "Serve the curry over steamed rice."
+        ]
+      },
+      {
+        "name": "Fish and coconut milk soup",
+        "description": "A light and flavorful soup made with fresh fish, coconut milk, and aromatic herbs and spices.",
+        "ingredients": [
+          "2 pounds fresh fish fillets, cut into bite-sized pieces",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "1 tablespoon grated ginger",
+          "1 teaspoon ground turmeric",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground coriander",
+          "1/2 teaspoon cayenne pepper",
+          "4 cups fish stock or water",
+          "2 cups coconut milk",
+          "1 bunch fresh cilantro, chopped",
+          "1 lime, juiced",
+          "Steamed rice for serving"
+        ],
+        "instructions": [
+          "Season the fish with salt and pepper.",
+          "In a large pot or Dutch oven, heat the vegetable oil over medium-high heat.",
+          "Add the onion, garlic, and ginger to the pot and cook, stirring occasionally, until the onion is soft and fragrant, about 5 minutes.",
+          "Add the turmeric, cumin, coriander, and cayenne pepper to the pot and cook, stirring constantly, for 1-2 minutes, until fragrant.",
+          "Add the fish to the pot and stir to coat with the spice mixture.",
+          "Add the fish stock or water to the pot and bring to a simmer.",
+          "Cover the pot and simmer over low heat until the fish is cooked through and tender, about 10-15 minutes.",
+          "Add the coconut milk to the pot and stir to combine.",
+          "Stir in the cilantro and lime juice.",
+          "Season with additional salt and pepper to taste.",
+          "Serve the soup over steamed rice"
+        ]
+      }
+    ]
+  },
+  "Colombia": {
+    "recipes": [
+      {
+        "name": "Ajiaco",
+        "description": "A hearty soup made with chicken, three types of potatoes, and corn.",
+        "ingredients": [
+          "1 whole chicken, cut into pieces",
+          "6 cups chicken broth",
+          "2 cups water",
+          "2 cloves garlic, minced",
+          "1 onion, chopped",
+          "1 tablespoon olive oil",
+          "3 ears of corn, cut into thirds",
+          "1 pound yellow potatoes, peeled and cubed",
+          "1 pound red potatoes, peeled and cubed",
+          "1 pound russet potatoes, peeled and cubed",
+          "1/4 cup chopped fresh cilantro",
+          "Salt and pepper to taste",
+          "1/2 cup heavy cream",
+          "2 avocados, sliced",
+          "2 tablespoons capers",
+          "1/2 cup sour cream"
+        ],
+        "instructions": [
+          "In a large pot, heat the olive oil over medium-high heat.",
+          "Add the onion and garlic and cook until soft, about 5 minutes.",
+          "Add the chicken pieces and cook until browned on all sides, about 10 minutes.",
+          "Add the chicken broth, water, corn, and potatoes to the pot.",
+          "Bring to a boil, then reduce heat and simmer until the potatoes are tender, about 30 minutes.",
+          "Add the cilantro, salt, and pepper to the pot.",
+          "Stir in the heavy cream and cook for an additional 5 minutes.",
+          "Serve the soup hot, garnished with avocado slices, capers, and a dollop of sour cream."
+        ]
+      },
+      {
+        "name": "Bandeja Paisa",
+        "description": "A traditional Colombian dish consisting of grilled steak, beans, rice, fried egg, and plantains.",
+        "ingredients": [
+          "1 pound flank steak",
+          "1 teaspoon ground cumin",
+          "1 teaspoon garlic powder",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "1 cup cooked red beans",
+          "2 cups cooked white rice",
+          "4 fried eggs",
+          "4 ripe plantains, sliced",
+          "4 slices cooked bacon",
+          "4 slices chorizo sausage",
+          "4 tablespoons chopped fresh cilantro"
+        ],
+        "instructions": [
+          "Season the flank steak with cumin, garlic powder, salt, and pepper.",
+          "In a large skillet, heat the vegetable oil over medium-high heat.",
+          "Add the steak and cook until browned on both sides and cooked to your desired level of doneness.",
+          "In a separate skillet, heat a little more oil over medium-high heat.",
+          "Add the plantains and cook until golden brown, about 5 minutes per side.",
+          "Assemble the dish by placing the cooked rice on a plate and topping it with the cooked steak, beans, fried egg, plantains, bacon, and chorizo sausage.",
+          "Garnish with chopped cilantro and serve immediately."
+        ]
+      }
+    ]
+  },
+  "Comoros": {
+    "recipes": [
+      {
+        "name": "Langouste a la Vanille",
+        "description": "A rich and flavorful lobster dish made with vanilla and served over rice.",
+        "ingredients": [
+          "4 lobster tails, cleaned and halved lengthwise",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons unsalted butter",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "2 tablespoons grated ginger",
+          "2 cups seafood stock",
+          "1 vanilla bean, split lengthwise",
+          "1 cup heavy cream",
+          "1 tablespoon lemon juice",
+          "4 cups cooked rice"
+        ],
+        "instructions": [
+          "Season the lobster with salt and pepper.",
+          "In a large skillet, heat the vegetable oil and butter over medium-high heat.",
+          "Add the lobster and cook, turning occasionally, until browned on both sides, about 5 minutes.",
+          "Remove the lobster from the skillet and set aside.",
+          "Add the onion, garlic, and ginger to the skillet and cook, stirring occasionally, until the onion is soft and translucent, about 5 minutes.",
+          "Add the seafood stock and vanilla bean to the skillet and bring to a simmer.",
+          "Return the lobster to the skillet and cover with the sauce.",
+          "Reduce the heat to low, cover the skillet, and simmer until the lobster is cooked through, about 10 minutes.",
+          "Stir in the heavy cream and lemon juice and cook until the sauce has thickened, about 5 minutes.",
+          "Serve the lobster over cooked rice."
+        ]
+      },
+      {
+        "name": "Mataba",
+        "description": "A delicious and comforting dish made with cassava leaves and coconut milk.",
+        "ingredients": [
+          "2 pounds cassava leaves, washed and chopped",
+          "4 cups chicken or vegetable broth",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "2 tablespoons grated ginger",
+          "2 tablespoons vegetable oil",
+          "2 cups coconut milk",
+          "Salt and pepper to taste",
+          "4 cups cooked rice"
+        ],
+        "instructions": [
+          "In a large pot, combine the cassava leaves, chicken or vegetable broth, onion, garlic, and ginger.",
+          "Bring to a boil over high heat, then reduce the heat to low, cover the pot, and simmer until the cassava leaves are tender, about 30 minutes.",
+          "In a separate skillet, heat the vegetable oil over medium heat.",
+          "Add the cooked cassava leaves to the skillet and cook, stirring occasionally, until most of the liquid has evaporated, about 15 minutes.",
+          "Stir in the coconut milk and cook until the mixture has thickened, about 10 minutes.",
+          "Season with salt and pepper to taste.",
+          "Serve the mataba over cooked rice."
+        ]
+      }
+    ]
+  },
+  "Democratic Republic of the Congo": {
+    "recipes": [
+      {
+        "name": "Moambe chicken",
+        "description": "A chicken stew with tomato, onions and palm butter.",
+        "ingredients": [
+          "1 whole chicken, cut into pieces",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "2 onions, chopped",
+          "4 garlic cloves, minced",
+          "1 teaspoon grated ginger",
+          "2 tomatoes, diced",
+          "2 cups chicken broth",
+          "1 cup palm butter",
+          "2-3 cups cooked rice"
+        ],
+        "instructions": [
+          "Season the chicken with salt and pepper.",
+          "In a large pot or Dutch oven, heat the vegetable oil over medium-high heat.",
+          "Add the chicken pieces in batches and brown on all sides. Set aside.",
+          "Add the onions, garlic, and ginger to the pot and cook until the onions are soft, about 5 minutes.",
+          "Add the tomatoes and cook for another 5 minutes, until the tomatoes are soft.",
+          "Add the chicken broth and palm butter to the pot and whisk until smooth.",
+          "Return the chicken to the pot and bring to a simmer.",
+          "Cover the pot and cook over low heat until the chicken is tender, about 45-60 minutes.",
+          "Serve the chicken stew over cooked rice."
+        ]
+      },
+      {
+        "name": "Fumbwa",
+        "description": "A traditional Congolese side dish made with cassava leaves, peanuts, and spices.",
+        "ingredients": [
+          "2 pounds fresh cassava leaves, washed and chopped",
+          "2 cups unsalted peanuts",
+          "1 onion, chopped",
+          "4 garlic cloves, minced",
+          "1 tablespoon grated ginger",
+          "2 tomatoes, diced",
+          "2 tablespoons palm oil",
+          "1 teaspoon salt",
+          "1 teaspoon black pepper",
+          "1 teaspoon cayenne pepper",
+          "3 cups water"
+        ],
+        "instructions": [
+          "In a large pot or Dutch oven, heat the palm oil over medium-high heat.",
+          "Add the onion, garlic, and ginger to the pot and cook until the onions are soft, about 5 minutes.",
+          "Add the tomatoes and cook for another 5 minutes, until the tomatoes are soft.",
+          "Add the cassava leaves, peanuts, salt, black pepper, cayenne pepper, and water to the pot.",
+          "Stir to combine, then bring to a simmer.",
+          "Cover the pot and cook over low heat until the cassava leaves are tender, about 2-3 hours, stirring occasionally.",
+          "Serve the fumbwa as a side dish."
+        ]
+      }
+    ]
+  },
+  "Congo, Republic of (Brazzaville)": {
+    "recipes": [
+      {
+        "name": "Poulet Yassa",
+        "description": "A flavorful chicken dish with a tangy lemon marinade and caramelized onions.",
+        "ingredients": [
+          "2-3 pounds chicken, cut into serving pieces",
+          "Salt and pepper to taste",
+          "1/2 cup lemon juice",
+          "2 onions, thinly sliced",
+          "1/2 cup vegetable oil",
+          "1 tablespoon Dijon mustard",
+          "2 garlic cloves, minced",
+          "1/2 teaspoon cayenne pepper",
+          "2 bay leaves",
+          "1/4 cup chopped fresh parsley",
+          "Cooked rice for serving"
+        ],
+        "instructions": [
+          "Season the chicken with salt and pepper and place in a large bowl.",
+          "In a separate bowl, whisk together the lemon juice, onions, vegetable oil, Dijon mustard, garlic, cayenne pepper, and bay leaves.",
+          "Pour the marinade over the chicken and toss to coat. Cover and refrigerate for at least 2 hours, or up to overnight.",
+          "Preheat the oven to 375°F.",
+          "Remove the chicken from the marinade and shake off any excess. Place the chicken in a baking dish and pour the marinade over the top.",
+          "Bake for 45-60 minutes, or until the chicken is cooked through and the onions are caramelized.",
+          "Sprinkle with chopped parsley and serve over cooked rice."
+        ]
+      },
+      {
+        "name": "Foufou",
+        "description": "A starchy staple dish made from cassava root or plantains, often served with a meat or vegetable stew.",
+        "ingredients": [
+          "2 pounds cassava root or plantains",
+          "Water",
+          "Salt to taste",
+          "Meat or vegetable stew for serving"
+        ],
+        "instructions": [
+          "Peel the cassava root or plantains and cut into large chunks.",
+          "Place the chunks in a large pot and cover with water. Bring to a boil over high heat.",
+          "Reduce the heat to low and simmer, uncovered, until the cassava root or plantains are soft and tender, about 30-40 minutes.",
+          "Drain the cassava root or plantains and transfer to a large bowl.",
+          "Mash the cassava root or plantains with a potato masher or the back of a spoon until smooth.",
+          "Add salt to taste and continue mashing until well combined.",
+          "Serve the foufou with a meat or vegetable stew."
+        ]
+      }
+    ]
+  },
+  "Cook Islands": {
+    "recipes": [
+      {
+        "name": "Ika Mata",
+        "description": "A refreshing dish made with raw fish marinated in coconut milk, lime juice, and vegetables.",
+        "ingredients": [
+          "1 pound fresh fish, such as mahi-mahi or tuna, cut into bite-sized pieces",
+          "1 cup coconut milk",
+          "1/4 cup lime juice",
+          "1/2 red onion, finely chopped",
+          "1 tomato, seeded and diced",
+          "1 cucumber, seeded and diced",
+          "1 red chili pepper, seeded and finely chopped",
+          "Salt and pepper to taste",
+          "Fresh cilantro for garnish"
+        ],
+        "instructions": [
+          "In a large bowl, combine the fish, coconut milk, lime juice, red onion, tomato, cucumber, and chili pepper.",
+          "Season with salt and pepper to taste.",
+          "Cover and refrigerate for at least 30 minutes, or up to 2 hours.",
+          "Serve chilled, garnished with fresh cilantro."
+        ]
+      },
+      {
+        "name": "Rukau",
+        "description": "A traditional Cook Islands side dish made with taro leaves and coconut cream.",
+        "ingredients": [
+          "2 pounds taro leaves",
+          "2 cups coconut cream",
+          "1 onion, chopped",
+          "3 garlic cloves, minced",
+          "1 tablespoon grated ginger",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Wash the taro leaves and remove the tough stems.",
+          "Bring a large pot of water to a boil.",
+          "Blanch the taro leaves in the boiling water for 5-7 minutes, until tender.",
+          "Drain the taro leaves and chop them finely.",
+          "In a large saucepan, heat the coconut cream over medium heat.",
+          "Add the onion, garlic, and ginger to the pan and cook until the onion is soft and translucent, about 5 minutes.",
+          "Add the chopped taro leaves to the pan and stir to combine.",
+          "Season with salt and pepper to taste.",
+          "Reduce the heat to low and simmer for 10-15 minutes, until the mixture is thickened and creamy.",
+          "Serve hot as a side dish."
+        ]
+      }
+    ]
+  },
+  "Costa Rica": {
+    "recipes": [
+      {
+        "name": "Gallo Pinto",
+        "description": "A classic Costa Rican dish made with rice and beans, often served for breakfast.",
+        "ingredients": [
+          "1 cup cooked rice",
+          "1 cup cooked black beans",
+          "2 tablespoons vegetable oil",
+          "1 small onion, chopped",
+          "1 red bell pepper, chopped",
+          "2 garlic cloves, minced",
+          "1/2 teaspoon ground cumin",
+          "1/2 teaspoon salt",
+          "2 tablespoons Lizano sauce or Worcestershire sauce",
+          "1/4 cup chopped cilantro",
+          "Fried or scrambled eggs (optional)",
+          "Sour cream (optional)"
+        ],
+        "instructions": [
+          "In a large skillet, heat the vegetable oil over medium heat.",
+          "Add the onion, red bell pepper, garlic, cumin, and salt to the skillet and cook until the vegetables are soft, about 5 minutes.",
+          "Add the cooked rice and black beans to the skillet and stir to combine.",
+          "Stir in the Lizano sauce or Worcestershire sauce and cook until the rice and beans are heated through, about 5 minutes.",
+          "Stir in the chopped cilantro.",
+          "Serve the Gallo Pinto with fried or scrambled eggs and a dollop of sour cream, if desired."
+        ]
+      },
+      {
+        "name": "Arroz con Pollo",
+        "description": "A classic Costa Rican dish made with chicken, rice, and vegetables.",
+        "ingredients": [
+          "2 tablespoons vegetable oil",
+          "2 pounds chicken thighs, bone-in and skin-on",
+          "Salt and pepper to taste",
+          "1 onion, chopped",
+          "1 red bell pepper, chopped",
+          "2 garlic cloves, minced",
+          "2 cups long-grain white rice",
+          "4 cups chicken broth",
+          "1 cup frozen peas",
+          "1/2 cup chopped cilantro",
+          "2 limes, cut into wedges"
+        ],
+        "instructions": [
+          "In a large Dutch oven, heat the vegetable oil over medium-high heat.",
+          "Season the chicken thighs with salt and pepper and add them to the Dutch oven.",
+          "Cook the chicken until browned on both sides, about 5 minutes per side.",
+          "Remove the chicken from the Dutch oven and set aside.",
+          "Add the onion, red bell pepper, and garlic to the Dutch oven and cook until the vegetables are soft, about 5 minutes.",
+          "Add the rice to the Dutch oven and stir to combine with the vegetables.",
+          "Add the chicken broth to the Dutch oven and stir to combine.",
+          "Return the chicken thighs to the Dutch oven and bring the mixture to a boil.",
+          "Reduce the heat to low, cover the Dutch oven, and simmer for 20 minutes.",
+          "Add the frozen peas to the Dutch oven and stir to combine.",
+          "Cover the Dutch oven and continue to simmer for an additional 5-10 minutes, or until the rice is tender and the chicken is cooked through.",
+          "Stir in the chopped cilantro.",
+          "Serve the Arroz con Pollo with lime wedges on the side."
+        ]
+      }
+    ]
+  },
+  "Côte d'Ivoire": {
+    "recipes": [
+      {
+        "name": "Kedjenou",
+        "description": "A hearty stew made with chicken, vegetables, and spices, cooked in a tightly sealed pot.",
+        "ingredients": [
+          "1 whole chicken, cut into pieces",
+          "Salt and pepper to taste",
+          "2 tablespoons vegetable oil",
+          "2 onions, chopped",
+          "4 tomatoes, chopped",
+          "2 bell peppers, chopped",
+          "3 garlic cloves, minced",
+          "1 tablespoon grated ginger",
+          "1 teaspoon dried thyme",
+          "1/2 teaspoon ground cloves",
+          "1/2 teaspoon ground nutmeg",
+          "1/2 teaspoon ground cinnamon",
+          "3 bay leaves",
+          "2 cups chicken broth",
+          "4 carrots, peeled and sliced",
+          "4 potatoes, peeled and chopped",
+          "4 plantains, peeled and chopped",
+          "Fresh parsley for garnish"
+        ],
+        "instructions": [
+          "Season the chicken with salt and pepper.",
+          "In a large Dutch oven, heat the vegetable oil over medium-high heat.",
+          "Add the chicken and brown on all sides. Set aside.",
+          "Add the onions, tomatoes, and bell peppers to the pot and cook, stirring occasionally, until the vegetables are soft, about 5 minutes.",
+          "Add the garlic, ginger, thyme, cloves, nutmeg, cinnamon, and bay leaves to the pot and cook for another 2 minutes.",
+          "Return the chicken to the pot and add the chicken broth. Bring to a simmer.",
+          "Add the carrots, potatoes, and plantains to the pot and stir to combine.",
+          "Cover the pot tightly with foil and then with a lid. Reduce the heat to low and cook until the chicken is tender and the vegetables are soft, about 1 1/2 hours.",
+          "Serve the kedjenou hot, garnished with fresh parsley."
+        ]
+      }
+    ]
+  },
+  "Croatia": {
+    "recipes": [
+      {
+        "name": "Pasticada",
+        "description": "A Dalmatian specialty, this slow-cooked beef stew is flavored with prunes, bacon, and red wine.",
+        "ingredients": [
+          "2-3 lbs beef chuck roast",
+          "1/4 lb bacon, diced",
+          "4 cloves garlic, minced",
+          "1 onion, chopped",
+          "1 carrot, chopped",
+          "2 stalks celery, chopped",
+          "1 cup red wine",
+          "1 cup beef broth",
+          "1/4 cup red wine vinegar",
+          "1/4 cup tomato paste",
+          "1/4 cup pitted prunes, chopped",
+          "2 bay leaves",
+          "2 sprigs fresh rosemary",
+          "1 tsp sugar",
+          "Salt and pepper, to taste",
+          "Olive oil"
+        ],
+        "instructions": [
+          "Preheat the oven to 325°F (160°C).",
+          "In a large Dutch oven or oven-safe pot, heat 1-2 tablespoons of olive oil over medium-high heat.",
+          "Season the beef with salt and pepper, then add to the pot and sear on all sides until browned. Remove and set aside.",
+          "Add the bacon to the pot and cook until crispy. Remove and set aside with the beef.",
+          "Add the garlic, onion, carrot, and celery to the pot and cook until the vegetables are soft and lightly browned, about 10 minutes.",
+          "Deglaze the pot with the red wine, scraping up any browned bits from the bottom. Add the beef broth, red wine vinegar, tomato paste, prunes, bay leaves, rosemary, sugar, and a pinch of salt and pepper.",
+          "Return the beef and bacon to the pot, making sure they are covered in the sauce. Bring to a simmer, then cover and transfer to the oven.",
+          "Cook for 3-4 hours, or until the beef is very tender and falling apart.",
+          "Remove the pot from the oven and let the stew cool for a few minutes. Remove the bay leaves and rosemary stems, then use a stick blender or transfer the stew to a blender to puree the sauce until smooth.",
+          "Serve the stew over mashed potatoes or gnocchi, garnished with fresh parsley or rosemary."
+        ]
+      }
+    ]
+  },
+  "Cuba": {
+    "recipes": [
+      {
+        "name": "Ropa Vieja",
+        "description": "A popular Cuban dish made with shredded beef, vegetables, and a tomato-based sauce.",
+        "ingredients": [
+          "2 lbs flank steak",
+          "1 onion, chopped",
+          "1 green bell pepper, chopped",
+          "1 red bell pepper, chopped",
+          "3 garlic cloves, minced",
+          "2 bay leaves",
+          "1 tsp cumin",
+          "1 tsp oregano",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1 (14 oz) can diced tomatoes",
+          "1/4 cup tomato paste",
+          "1/2 cup beef broth",
+          "1/4 cup red wine",
+          "1/4 cup pitted green olives",
+          "1/4 cup raisins",
+          "2 tbsp capers",
+          "Cooked white rice, for serving"
+        ],
+        "instructions": [
+          "Place the flank steak in a large pot and add enough water to cover it. Bring to a boil over high heat, then reduce heat to low and let simmer for 2 hours or until the beef is very tender.",
+          "Remove the beef from the pot and let cool. Shred the beef into thin pieces and set aside.",
+          "In a large pan, heat some oil over medium-high heat. Add the onions, bell peppers, and garlic and sauté until the vegetables are tender, about 5 minutes.",
+          "Add the bay leaves, cumin, oregano, salt, black pepper, diced tomatoes, tomato paste, beef broth, and red wine to the pan. Stir to combine.",
+          "Add the shredded beef to the pan and stir to combine. Let the mixture simmer for about 15 minutes, stirring occasionally.",
+          "Add the olives, raisins, and capers to the pan and stir to combine. Let simmer for an additional 10 minutes.",
+          "Serve the Ropa Vieja over cooked white rice."
+        ]
+      }
+    ]
+  },
+  "Cyprus": {
+    "recipes": [
+      {
+        "name": "Halloumi cheese with watermelon",
+        "description": "A refreshing and savory salad featuring the famous Cypriot cheese and sweet watermelon.",
+        "ingredients": [
+          "8 ounces halloumi cheese",
+          "2 cups cubed watermelon",
+          "1/2 small red onion, thinly sliced",
+          "1/4 cup fresh mint leaves",
+          "2 tablespoons olive oil",
+          "1 tablespoon red wine vinegar",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Heat a non-stick skillet over medium-high heat.",
+          "Cut the halloumi cheese into 1/4-inch thick slices and add to the skillet.",
+          "Cook for 1-2 minutes per side, or until golden brown and crispy.",
+          "In a large bowl, combine the watermelon, red onion, and mint leaves.",
+          "Add the cooked halloumi cheese to the bowl.",
+          "In a small bowl, whisk together the olive oil, red wine vinegar, salt, and pepper.",
+          "Drizzle the dressing over the salad and toss to combine.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "name": "Kleftiko",
+        "description": "A delicious and hearty lamb dish that is slow cooked with potatoes and herbs.",
+        "ingredients": [
+          "2 pounds bone-in lamb shoulder",
+          "Salt and pepper to taste",
+          "1/4 cup olive oil",
+          "1 lemon, juiced",
+          "4 garlic cloves, minced",
+          "1 tablespoon dried oregano",
+          "1 teaspoon dried thyme",
+          "1 teaspoon smoked paprika",
+          "1/2 teaspoon ground cinnamon",
+          "1/2 teaspoon ground cumin",
+          "1/2 teaspoon ground coriander",
+          "1/2 cup dry white wine",
+          "4 large potatoes, peeled and cut into chunks",
+          "1 cup chicken broth",
+          "Fresh parsley for garnish"
+        ],
+        "instructions": [
+          "Preheat the oven to 375°F.",
+          "Season the lamb with salt and pepper.",
+          "In a small bowl, whisk together the olive oil, lemon juice, garlic, oregano, thyme, smoked paprika, cinnamon, cumin, and coriander.",
+          "Rub the mixture all over the lamb.",
+          "Place the lamb in a large roasting pan and pour the white wine around it.",
+          "Add the potatoes to the pan and pour the chicken broth over everything.",
+          "Cover the pan with aluminum foil and bake for 2-3 hours, or until the lamb is tender and falls off the bone.",
+          "Remove the foil and bake for an additional 20-30 minutes, or until the potatoes are golden brown and crispy.",
+          "Garnish with fresh parsley and serve hot."
+        ]
+      }
+    ]
+  },
+  "Czech Republic": {
+    "recipes": [
+      {
+        "name": "Svickova na smetane",
+        "description": "A classic Czech beef dish in a creamy sauce, served with dumplings and cranberry sauce.",
+        "ingredients": [
+          "2 lbs beef chuck roast",
+          "4 cups beef broth",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 celery stalks, chopped",
+          "1 bay leaf",
+          "4 allspice berries",
+          "8 black peppercorns",
+          "1/2 cup heavy cream",
+          "1/2 cup sour cream",
+          "2 tbsp all-purpose flour",
+          "2 tbsp butter",
+          "1 tbsp lemon juice",
+          "Salt and pepper to taste",
+          "Chopped fresh parsley for garnish",
+          "Dumplings and cranberry sauce for serving"
+        ],
+        "instructions": [
+          "In a large Dutch oven, combine the beef, beef broth, onion, carrots, celery, bay leaf, allspice berries, and black peppercorns.",
+          "Bring to a boil, then reduce heat and simmer, covered, for about 2 hours or until the beef is tender.",
+          "Remove the beef from the pot and set aside. Strain the vegetables and spices from the broth and reserve the broth.",
+          "In a small bowl, whisk together the heavy cream, sour cream, and flour.",
+          "In a large saucepan, melt the butter over medium heat. Whisk in the cream mixture and 1 cup of the reserved broth.",
+          "Bring to a simmer, whisking constantly, until the sauce thickens. Stir in the lemon juice and season with salt and pepper.",
+          "Slice the beef and serve with the sauce, dumplings, and cranberry sauce. Garnish with chopped fresh parsley."
+        ]
+      },
+      {
+        "name": "Knedliky",
+        "description": "A Czech-style dumpling made with bread and served with meat dishes or as a side dish.",
+        "ingredients": [
+          "8 slices white bread, crusts removed and cut into cubes",
+          "1 cup milk",
+          "2 eggs",
+          "1/4 cup all-purpose flour",
+          "1/4 cup unsalted butter, melted",
+          "1 tsp salt",
+          "1/2 tsp black pepper"
+        ],
+        "instructions": [
+          "In a large bowl, soak the bread cubes in the milk for 10 minutes.",
+          "Add the eggs, flour, melted butter, salt, and pepper to the bowl and mix well.",
+          "Divide the mixture into two equal parts and shape each into a log about 10 inches long and 3 inches in diameter.",
+          "Place the logs on a piece of cheesecloth and wrap tightly. Tie the ends with kitchen twine.",
+          "Bring a large pot of salted water to a boil. Carefully lower the wrapped dumplings into the pot and boil for 30-40 minutes.",
+          "Remove the dumplings from the pot and let cool slightly before unwrapping and slicing into rounds. Serve with meat dishes or as a side dish."
+        ]
+      }
+    ]
+  },
+  "Denmark": {
+    "recipes": [
+      {
+        "name": "Frikadeller (Danish Meatballs)",
+        "description": "Traditional Danish meatballs made with ground pork and served with boiled potatoes and red cabbage.",
+        "ingredients": [
+          "1 pound ground pork",
+          "1 small onion, finely chopped",
+          "1 egg",
+          "1/2 cup breadcrumbs",
+          "1/2 cup milk",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "1/4 teaspoon nutmeg",
+          "1/4 teaspoon allspice",
+          "3 tablespoons butter",
+          "Boiled potatoes and red cabbage, for serving"
+        ],
+        "instructions": [
+          "In a large bowl, combine the ground pork, chopped onion, egg, breadcrumbs, milk, salt, black pepper, nutmeg, and allspice. Mix well.",
+          "Form the mixture into small meatballs, about 1-2 inches in diameter.",
+          "Melt the butter in a large skillet over medium-high heat.",
+          "Add the meatballs to the skillet and cook, turning occasionally, until browned on all sides and cooked through, about 10-12 minutes.",
+          "Serve the meatballs with boiled potatoes and red cabbage."
+        ]
+      },
+      {
+        "name": "Æbleskiver (Danish Pancake Balls)",
+        "description": "Small, fluffy pancakes in the shape of balls, often filled with jam and dusted with powdered sugar.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "2 teaspoons baking powder",
+          "1/2 teaspoon salt",
+          "2 tablespoons granulated sugar",
+          "3 large eggs, separated",
+          "2 cups milk",
+          "1/4 cup unsalted butter, melted and cooled",
+          "Jam and powdered sugar, for serving"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the flour, baking powder, salt, and granulated sugar.",
+          "In a separate bowl, whisk together the egg yolks, milk, and melted butter.",
+          "Add the wet ingredients to the dry ingredients and whisk until smooth.",
+          "In another bowl, beat the egg whites until stiff peaks form.",
+          "Gently fold the egg whites into the pancake batter until just combined.",
+          "Preheat an æbleskiver pan over medium heat and brush the wells with butter.",
+          "Fill each well with batter and cook until the edges are set and the bottom is golden brown, about 2-3 minutes.",
+          "Using a skewer or fork, gently turn the pancake balls over and cook until the other side is golden brown, about 2-3 minutes more.",
+          "Remove the pancake balls from the pan and repeat with the remaining batter.",
+          "Serve the æbleskiver with jam and powdered sugar."
+        ]
+      }
+    ]
+  },
+  "Djibouti": {
+    "recipes": [
+      {
+        "name": "Sabaayad",
+        "description": "Sabaayad is a flaky and chewy Somali flatbread that is typically served with tea or as a snack with honey or butter.",
+        "ingredients": [
+          "3 cups all-purpose flour",
+          "1/4 cup sugar",
+          "1/2 teaspoon salt",
+          "1/2 teaspoon baking powder",
+          "3/4 cup warm milk",
+          "1/4 cup vegetable oil"
+        ],
+        "instructions": [
+          "In a large mixing bowl, combine the flour, sugar, salt, and baking powder.",
+          "Add the warm milk and vegetable oil to the dry ingredients and mix well until a smooth dough forms.",
+          "Knead the dough on a floured surface for about 5 minutes until it becomes smooth and elastic.",
+          "Divide the dough into 8 equal portions and roll each portion into a ball.",
+          "On a floured surface, roll each ball into a thin circle.",
+          "Heat a large skillet or griddle over medium-high heat.",
+          "Place one sabaayad on the skillet and cook until the bottom is lightly browned, about 1-2 minutes.",
+          "Flip the sabaayad and cook the other side for an additional 1-2 minutes.",
+          "Repeat with the remaining sabaayad.",
+          "Serve hot with tea or honey."
+        ]
+      }
+    ]
+  },
+  "Dominica": {
+    "recipes": [
+      {
+        "name": "Callaloo Soup",
+        "description": "A flavorful soup made with taro leaves and coconut milk, often served with bread or rice.",
+        "ingredients": [
+          "2 lbs taro leaves, chopped",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 cups chicken broth",
+          "1 cup coconut milk",
+          "1/4 tsp thyme",
+          "1/4 tsp black pepper",
+          "Salt to taste",
+          "2 tbsp olive oil"
+        ],
+        "instructions": [
+          "In a large pot, heat olive oil over medium heat.",
+          "Add onion and garlic and sauté until onion is translucent.",
+          "Add taro leaves and stir well to coat with the onion mixture.",
+          "Add chicken broth, coconut milk, thyme, black pepper, and salt to taste.",
+          "Bring to a boil, then reduce heat and simmer for 30 minutes, stirring occasionally.",
+          "Serve hot with bread or rice."
+        ]
+      },
+      {
+        "name": "Baked Fish with Coconut Sauce",
+        "description": "A simple but flavorful dish of baked fish topped with a rich coconut sauce.",
+        "ingredients": [
+          "4 fish fillets (such as snapper or mahi-mahi)",
+          "1/2 cup coconut milk",
+          "1/4 cup breadcrumbs",
+          "1/4 cup grated Parmesan cheese",
+          "1/4 tsp black pepper",
+          "1/4 tsp paprika",
+          "1/4 tsp garlic powder",
+          "Salt to taste",
+          "2 tbsp olive oil"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F.",
+          "In a small bowl, mix together breadcrumbs, Parmesan cheese, black pepper, paprika, garlic powder, and salt to taste.",
+          "Brush fish fillets with olive oil and coat with the breadcrumb mixture.",
+          "Place fish fillets in a baking dish and bake for 15-20 minutes, or until fish is cooked through and the breadcrumbs are golden brown.",
+          "In a small saucepan, heat coconut milk over medium heat until simmering.",
+          "Pour coconut milk over baked fish and serve hot."
+        ]
+      }
+    ]
+  },
+  "Dominican Republic": {
+    "recipes": [
+      {
+        "name": "Sancocho",
+        "description": "A hearty stew made with meat, vegetables, and spices, often served with rice or avocado.",
+        "ingredients": [
+          "2 lbs beef (or chicken), cut into cubes",
+          "1 lb yucca, peeled and cut into chunks",
+          "1 lb plantains, peeled and cut into chunks",
+          "1 lb potatoes, peeled and cut into chunks",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1 bell pepper, chopped",
+          "1/4 cup cilantro, chopped",
+          "1 tsp oregano",
+          "1 tsp cumin",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "8 cups water",
+          "2 tbsp olive oil"
+        ],
+        "instructions": [
+          "In a large pot, heat olive oil over medium heat.",
+          "Add onion, garlic, and bell pepper and sauté until onion is translucent.",
+          "Add beef (or chicken) and brown on all sides.",
+          "Add yucca, plantains, potatoes, cilantro, oregano, cumin, salt, black pepper, and water.",
+          "Bring to a boil, then reduce heat and simmer for 1-2 hours, stirring occasionally.",
+          "Serve hot with rice or avocado."
+        ]
+      },
+      {
+        "name": "Mangu",
+        "description": "A classic Dominican breakfast dish made with mashed plantains and served with fried cheese, eggs, and salami.",
+        "ingredients": [
+          "4 green plantains",
+          "1/2 cup milk",
+          "1/4 cup butter",
+          "Salt to taste",
+          "1 cup queso blanco (white cheese), sliced",
+          "4 eggs",
+          "4 slices of salami",
+          "2 tbsp olive oil"
+        ],
+        "instructions": [
+          "Peel and cut plantains into chunks and boil in salted water until soft.",
+          "Drain the water and mash the plantains with a fork or masher.",
+          "Add milk, butter, and salt to taste, and mix well.",
+          "In a small pan, heat olive oil over medium heat.",
+          "Add cheese slices and fry until golden brown, about 1-2 minutes per side.",
+          "In another small pan, cook eggs to your liking.",
+          "Serve the mashed plantains with fried cheese, eggs, and salami."
+        ]
+      }
+    ]
   }
 }
