@@ -4609,5 +4609,1078 @@
         ]
       }
     ]
+  },
+  "Iran": {
+    "recipes": [
+      {
+        "name": "Gheymeh",
+        "description": "Gheymeh is a popular Persian stew made with split peas, beef, and tomatoes, and is usually served with steamed basmati rice.",
+        "ingredients": [
+          "1 lb stew beef, cut into small pieces",
+          "1 onion, finely chopped",
+          "1 cup yellow split peas",
+          "4 cups water",
+          "1 can (14 oz) diced tomatoes",
+          "2 tbsp tomato paste",
+          "1 tbsp dried Persian lime powder",
+          "1 tsp turmeric",
+          "Salt and pepper to taste",
+          "Oil for frying",
+          "1 large potato, peeled and cut into small cubes",
+          "1 tsp ground cinnamon",
+          "1 tbsp sugar",
+          "1 tbsp lemon juice",
+          "2 tbsp dried mint leaves",
+          "2 tbsp chopped parsley"
+        ],
+        "instructions": [
+          "Heat some oil in a large pot over medium-high heat.",
+          "Add the beef and onions and sauté until browned.",
+          "Add the split peas, water, tomatoes, tomato paste, turmeric, lime powder, salt, and pepper. Stir to combine.",
+          "Cover the pot and simmer for about 1 hour, stirring occasionally.",
+          "Meanwhile, fry the potatoes until crispy and set aside.",
+          "In a small pan, sauté the cinnamon for a few seconds and add it to the pot, along with the sugar and lemon juice. Stir to combine.",
+          "Cook for an additional 10-15 minutes, until the stew has thickened and the split peas are soft.",
+          "Serve the gheymeh hot, garnished with the fried potatoes, dried mint, and chopped parsley."
+        ]
+      }
+    ]
+  },
+  "Iraq": {
+    "recipes": [
+      {
+        "name": "Tashreeb",
+        "description": "Tashreeb is a traditional Iraqi dish made with bread, meat, vegetables, and broth. It is usually served during Ramadan, but is also enjoyed year-round.",
+        "ingredients": [
+          "1 lb. lamb, cut into bite-sized pieces",
+          "4-5 pieces of bread",
+          "2 onions, chopped",
+          "4-5 cloves garlic, minced",
+          "2-3 cups chicken broth",
+          "2-3 cups water",
+          "1 tsp. cumin",
+          "1 tsp. coriander",
+          "1 tsp. turmeric",
+          "1 tsp. cinnamon",
+          "1/2 tsp. black pepper",
+          "1/2 tsp. salt",
+          "1/4 cup chopped fresh parsley"
+        ],
+        "instructions": [
+          "In a large pot or Dutch oven, sauté the lamb until browned. Remove from pot and set aside.",
+          "In the same pot, sauté the onions and garlic until softened.",
+          "Add the lamb back into the pot with the onions and garlic.",
+          "Add the spices and stir to combine.",
+          "Pour in the chicken broth and water and bring to a boil.",
+          "Reduce heat and let simmer for about 30 minutes.",
+          "Tear the bread into small pieces and add to the pot. Stir gently to combine.",
+          "Cover the pot and let cook for another 15-20 minutes, or until the bread is soft and has absorbed most of the liquid.",
+          "Garnish with fresh parsley and serve hot."
+        ]
+      },
+      {
+        "name": "Masgouf",
+        "description": "Masgouf is a popular Iraqi grilled fish dish that is typically made with carp or shanbalileh fish. It is traditionally cooked over an open flame and served with lemon and onion.",
+        "ingredients": [
+          "2 lbs. carp or shanbalileh fish, cleaned and scaled",
+          "1/4 cup olive oil",
+          "1/4 cup lemon juice",
+          "2 tsp. salt",
+          "1 tsp. ground cumin",
+          "1 tsp. paprika",
+          "1/2 tsp. ground black pepper",
+          "1/2 tsp. ground coriander",
+          "1/2 tsp. ground cinnamon",
+          "2 onions, sliced"
+        ],
+        "instructions": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, whisk together the olive oil, lemon juice, salt, cumin, paprika, black pepper, coriander, and cinnamon.",
+          "Rub the fish with the spice mixture, making sure to coat it evenly.",
+          "Place the fish on the grill and cook for about 10-15 minutes on each side, or until the skin is crispy and the fish is cooked through.",
+          "While the fish is cooking, sauté the sliced onions in a small pan until they are soft and caramelized.",
+          "Serve the fish with the sautéed onions, lemon wedges, and a side of rice."
+        ]
+      }
+    ]
+  },
+  "Ireland": {
+    "recipes": [
+      {
+        "name": "Irish Stew",
+        "description": "Irish stew is a traditional Irish dish made from lamb, potatoes, onions, and herbs. It is a hearty and comforting meal that is perfect for cold winter days.",
+        "ingredients": [
+          "1 1/2 pounds lamb shoulder, cut into 1 1/2 inch pieces",
+          "2 tablespoons olive oil",
+          "2 large onions, chopped",
+          "4 cloves garlic, minced",
+          "4 cups chicken or beef broth",
+          "4 large potatoes, peeled and diced",
+          "2 large carrots, peeled and sliced",
+          "2 stalks celery, sliced",
+          "1 bay leaf",
+          "1 teaspoon dried thyme",
+          "1 teaspoon salt",
+          "1/2 teaspoon black pepper"
+        ],
+        "instructions": [
+          "Preheat the oven to 325°F (165°C).",
+          "Heat the olive oil in a large Dutch oven over medium heat. Add the lamb and brown on all sides, about 5-7 minutes. Remove the lamb from the pot and set aside.",
+          "Add the onions to the pot and sauté until softened, about 5 minutes. Add the garlic and cook for an additional minute.",
+          "Add the broth, potatoes, carrots, celery, bay leaf, thyme, salt, and pepper. Stir to combine.",
+          "Return the lamb to the pot and bring to a boil.",
+          "Cover the pot with a lid and place it in the oven. Cook for 2-2 1/2 hours, or until the lamb is tender.",
+          "Remove the bay leaf before serving."
+        ]
+      },
+      {
+        "name": "Irish Soda Bread",
+        "description": "Irish soda bread is a quick bread that is made with baking soda instead of yeast. It is a staple of Irish cuisine and is often served with butter and jam.",
+        "ingredients": [
+          "4 cups all-purpose flour",
+          "1 teaspoon salt",
+          "1 teaspoon baking soda",
+          "1 3/4 cups buttermilk"
+        ],
+        "instructions": [
+          "Preheat the oven to 425°F (220°C).",
+          "In a large bowl, whisk together the flour, salt, and baking soda.",
+          "Make a well in the center of the dry ingredients and pour in the buttermilk.",
+          "Using a wooden spoon or your hands, mix the ingredients together until a shaggy dough forms.",
+          "Turn the dough out onto a floured surface and knead lightly until it comes together into a round loaf.",
+          "Transfer the dough to a baking sheet lined with parchment paper. Cut a deep cross in the top of the loaf with a sharp knife.",
+          "Bake for 35-45 minutes, or until the bread is golden brown and sounds hollow when tapped on the bottom.",
+          "Transfer the bread to a wire rack to cool completely before slicing and serving."
+        ]
+      }
+    ]
+  },
+  "Israel": {
+    "recipes": [
+      {
+        "name": "Shakshuka",
+        "description": "A flavorful and healthy Middle Eastern breakfast dish featuring eggs poached in a spicy tomato sauce.",
+        "ingredients": [
+          "1 onion, diced",
+          "2 garlic cloves, minced",
+          "2 bell peppers, diced",
+          "1 can (28 oz) diced tomatoes",
+          "1 tsp paprika",
+          "1 tsp cumin",
+          "1/2 tsp cayenne pepper",
+          "4-6 eggs",
+          "1/4 cup crumbled feta cheese",
+          "2 tbsp chopped fresh parsley",
+          "Salt and pepper, to taste",
+          "Olive oil"
+        ],
+        "instructions": [
+          "In a large skillet, heat olive oil over medium heat.",
+          "Add diced onions and sauté until they become soft and translucent.",
+          "Add minced garlic and diced bell peppers to the skillet and cook for a few more minutes.",
+          "Pour the can of diced tomatoes into the skillet and add the paprika, cumin, cayenne pepper, salt, and pepper. Stir well and let the mixture simmer for 5-10 minutes, until the sauce thickens.",
+          "Use a spoon to make small wells in the sauce, and crack an egg into each well. Cover the skillet and let the eggs poach in the sauce for 5-7 minutes, until the whites are set but the yolks are still runny.",
+          "Sprinkle crumbled feta cheese and chopped parsley over the top of the shakshuka.",
+          "Serve hot with crusty bread or pita."
+        ]
+      },
+      {
+        "name": "Hummus",
+        "description": "A classic and delicious dip made from chickpeas, tahini, lemon juice, and garlic.",
+        "ingredients": [
+          "1 can (15 oz) chickpeas, drained and rinsed",
+          "1/4 cup tahini",
+          "2 garlic cloves, minced",
+          "Juice of 1 lemon",
+          "1/4 tsp ground cumin",
+          "1/4 tsp paprika",
+          "Salt and pepper, to taste",
+          "Olive oil"
+        ],
+        "instructions": [
+          "In a food processor, combine the chickpeas, tahini, garlic, lemon juice, cumin, paprika, salt, and pepper. Pulse until the mixture is smooth and creamy.",
+          "With the food processor running, slowly drizzle in olive oil until the hummus is the desired consistency.",
+          "Taste and adjust seasonings as needed.",
+          "Serve cold or at room temperature with pita chips, vegetables, or crackers."
+        ]
+      }
+    ]
+  },
+  "Italy": {
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "description": "A classic pasta dish from Rome made with spaghetti, eggs, guanciale or pancetta, pecorino cheese, and black pepper.",
+        "ingredients": [
+          "1 lb spaghetti",
+          "6 oz guanciale or pancetta, diced",
+          "4 large eggs",
+          "1 cup grated pecorino cheese",
+          "1 tsp freshly ground black pepper"
+        ],
+        "instructions": [
+          "Cook spaghetti in a large pot of boiling salted water until al dente.",
+          "Meanwhile, cook guanciale or pancetta in a large skillet over medium heat until crispy and golden brown.",
+          "In a large mixing bowl, whisk together eggs, pecorino cheese, and black pepper until well combined.",
+          "When spaghetti is done, reserve 1 cup of pasta cooking water, then drain the spaghetti and add it to the skillet with the guanciale or pancetta. Toss to combine.",
+          "Remove the skillet from heat and let it cool for a minute or two, then add the egg mixture and stir well until the spaghetti is coated in the sauce.",
+          "If the sauce is too thick, add reserved pasta cooking water 1 tablespoon at a time until desired consistency is reached.",
+          "Serve hot with additional grated pecorino cheese and black pepper, if desired."
+        ]
+      },
+      {
+        "name": "Margherita Pizza",
+        "description": "A simple pizza topped with tomato sauce, fresh mozzarella cheese, and basil leaves. Named after Queen Margherita of Savoy, this pizza represents the colors of the Italian flag: red, white, and green.",
+        "ingredients": [
+          "1 lb pizza dough",
+          "1/2 cup tomato sauce",
+          "8 oz fresh mozzarella cheese, sliced",
+          "6-8 fresh basil leaves",
+          "2 tbsp olive oil"
+        ],
+        "instructions": [
+          "Preheat oven to 450°F.",
+          "Roll out the pizza dough on a floured surface to a 12-inch circle.",
+          "Place the pizza dough on a baking sheet or pizza stone.",
+          "Spread the tomato sauce over the pizza dough, leaving a small border around the edges.",
+          "Arrange the sliced mozzarella cheese on top of the tomato sauce.",
+          "Drizzle with olive oil and season with salt and pepper to taste.",
+          "Bake in the preheated oven for 10-12 minutes or until the crust is golden brown and the cheese is melted and bubbly.",
+          "Remove from the oven and let cool for a minute or two, then top with fresh basil leaves.",
+          "Slice and serve hot."
+        ]
+      }
+    ]
+  },
+  "Jamaica": {
+    "recipes": [
+      {
+        "name": "Jamaican Jerk Chicken",
+        "description": "This classic Jamaican dish features chicken marinated in a spicy blend of herbs and spices, then grilled or roasted to perfection.",
+        "ingredients": [
+          "4 chicken legs, split into thighs and drumsticks",
+          "1/4 cup soy sauce",
+          "1/4 cup white vinegar",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons brown sugar",
+          "1 tablespoon fresh thyme leaves",
+          "1 tablespoon ground allspice",
+          "1 tablespoon ground cinnamon",
+          "1 tablespoon ground ginger",
+          "1 tablespoon ground black pepper",
+          "1 teaspoon cayenne pepper",
+          "4 garlic cloves, minced",
+          "1 small onion, chopped"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the soy sauce, vinegar, oil, brown sugar, thyme, allspice, cinnamon, ginger, black pepper, cayenne pepper, garlic, and onion.",
+          "Add the chicken to the bowl and toss to coat with the marinade. Cover and refrigerate for at least 1 hour, or up to overnight.",
+          "Preheat the oven to 375°F (190°C).",
+          "Remove the chicken from the marinade and arrange it in a single layer on a baking sheet.",
+          "Bake for 30 to 35 minutes, or until the chicken is cooked through and the skin is crispy.",
+          "Serve with rice and beans, or your favorite Jamaican side dishes."
+        ]
+      }
+    ]
+  },
+  "Japan": {
+    "recipes": [
+      {
+        "name": "Sushi Rolls",
+        "description": "Sushi rolls are a classic Japanese dish that have become popular all over the world. This recipe shows you how to make your own sushi rolls at home!",
+        "ingredients": [
+          "2 cups sushi rice",
+          "2 1/4 cups water",
+          "1/4 cup rice vinegar",
+          "2 tablespoons sugar",
+          "1 teaspoon salt",
+          "4 sheets of nori",
+          "Assorted sushi fillings (such as cucumber, avocado, crab meat, and salmon)"
+        ],
+        "instructions": [
+          "Rinse the sushi rice in a fine mesh strainer until the water runs clear.",
+          "In a medium saucepan, combine the rice and water and bring to a boil over high heat. Reduce the heat to low, cover, and simmer for 20 minutes.",
+          "Remove the rice from the heat and let it sit for 10 minutes, then transfer it to a large bowl.",
+          "In a small saucepan, combine the rice vinegar, sugar, and salt. Heat over low heat, stirring occasionally, until the sugar and salt dissolve.",
+          "Pour the vinegar mixture over the rice and use a wooden spoon to gently stir and fold the rice until it is evenly coated.",
+          "Place a sheet of nori on a sushi mat or piece of plastic wrap. Spread a layer of sushi rice over the nori, leaving a 1-inch border at the top edge.",
+          "Arrange the sushi fillings on top of the rice.",
+          "Roll up the sushi tightly, using the mat or plastic wrap to help you. Use a sharp knife to cut the sushi into slices.",
+          "Serve with soy sauce, wasabi, and pickled ginger."
+        ]
+      },
+      {
+        "name": "Tempura",
+        "description": "Tempura is a classic Japanese dish of battered and deep-fried seafood and vegetables. This recipe shows you how to make crispy, delicious tempura at home!",
+        "ingredients": [
+          "1/2 pound shrimp, peeled and deveined",
+          "1/2 pound assorted vegetables (such as sweet potato, onion, and broccoli)",
+          "1 cup all-purpose flour",
+          "1 cup ice-cold water",
+          "1 egg yolk",
+          "1 quart vegetable oil, for frying",
+          "Tempura dipping sauce"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the flour, ice-cold water, and egg yolk until smooth.",
+          "In a heavy-bottomed pot or deep fryer, heat the vegetable oil to 375 degrees F.",
+          "Dip the shrimp and vegetables in the batter and let any excess batter drip off.",
+          "Fry the shrimp and vegetables in batches until golden brown and crispy, about 2-3 minutes per batch.",
+          "Drain the tempura on a wire rack or paper towels.",
+          "Serve with tempura dipping sauce."
+        ]
+      }
+    ]
+  },
+  "Jordan": {
+    "recipes": [
+      {
+        "name": "Mansaf",
+        "description": "A traditional Jordanian dish made of lamb cooked in a sauce of fermented dried yogurt and served with rice and topped with almonds and parsley.",
+        "ingredients": [
+          "2 lbs bone-in lamb shoulder, cut into large pieces",
+          "3 cups plain yogurt",
+          "1/4 cup fermented dried yogurt (jameed)",
+          "2 cups basmati rice",
+          "1/2 cup slivered almonds",
+          "1/2 cup chopped fresh parsley",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "3 tbsp olive oil",
+          "1 tsp ground cumin",
+          "1 tsp ground coriander",
+          "1/2 tsp ground cinnamon",
+          "1/2 tsp ground allspice",
+          "Salt and pepper, to taste"
+        ],
+        "instructions": [
+          "Soak the rice in cold water for 30 minutes.",
+          "In a large pot, heat the olive oil over medium heat. Add the onion and garlic and sauté until softened.",
+          "Add the lamb and cook until browned on all sides, about 10 minutes.",
+          "Add the cumin, coriander, cinnamon, allspice, salt, and pepper to the pot and stir to combine.",
+          "Add enough water to the pot to cover the lamb by 1 inch. Bring to a boil, then reduce heat to low and let simmer for 1 1/2 to 2 hours, until the lamb is tender.",
+          "In a separate pot, bring 4 cups of water to a boil. Drain the rice and add it to the boiling water. Cook for 10 minutes, or until the rice is tender.",
+          "In a bowl, mix together the yogurt and fermented dried yogurt until well combined.",
+          "To serve, spread the cooked rice on a large platter. Place the cooked lamb on top of the rice and spoon the yogurt sauce over the lamb. Garnish with slivered almonds and chopped parsley."
+        ]
+      },
+      {
+        "name": "Falafel",
+        "description": "A popular Middle Eastern food made of ground chickpeas, herbs, and spices formed into balls or patties and fried until crispy.",
+        "ingredients": [
+          "2 cups dried chickpeas",
+          "1 onion, chopped",
+          "4 cloves garlic, minced",
+          "1/2 cup fresh parsley leaves",
+          "1/2 cup fresh cilantro leaves",
+          "2 tbsp all-purpose flour",
+          "1 tbsp ground cumin",
+          "1 tsp ground coriander",
+          "1/2 tsp baking soda",
+          "Salt and pepper, to taste",
+          "Oil, for frying"
+        ],
+        "instructions": [
+          "Soak the chickpeas in water for 24 hours.",
+          "Drain the chickpeas and rinse them thoroughly.",
+          "In a food processor, combine the chickpeas, onion, garlic, parsley, cilantro, flour, cumin, coriander, baking soda, salt, and pepper. Pulse until the mixture is well combined but still slightly chunky.",
+          "Form the mixture into small balls or patties.",
+          "Heat the oil in a large pot or deep fryer to 375°F.",
+          "Fry the falafel in the hot oil for 3-4 minutes, or until crispy and golden brown.",
+          "Serve hot with tahini sauce and pita bread."
+        ]
+      }
+    ]
+  },
+  "country": "Kazakhstan",
+  "recipes": [
+    {
+      "name": "Beshbarmak",
+      "description": "Beshbarmak is the national dish of Kazakhstan, consisting of boiled meat (usually beef or mutton) served over sheets of homemade pasta.",
+      "ingredients": [
+        "1 lb beef or mutton",
+        "1 onion, chopped",
+        "2 carrots, chopped",
+        "2 potatoes, chopped",
+        "1 cup flour",
+        "1 egg",
+        "1/2 cup water",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a large pot, boil the meat until tender.",
+        "Remove the meat from the pot and set aside. Keep the broth for later use.",
+        "In a separate pot, boil the chopped potatoes and carrots until tender.",
+        "To make the pasta, mix together the flour, egg, and water until a dough forms.",
+        "Knead the dough for several minutes, then roll it out on a floured surface until it's about 1/4 inch thick.",
+        "Cut the dough into squares or diamond shapes.",
+        "Boil the pasta in the meat broth until cooked through.",
+        "To serve, place the pasta on a platter and top with the boiled meat, potatoes, and carrots. Pour the meat broth over everything and season with salt and pepper."
+      ]
+    },
+    {
+      "name": "Kazy",
+      "description": "Kazy is a traditional Kazakh sausage made from horse meat. It is usually served cold and sliced thinly.",
+      "ingredients": [
+        "2 lbs horse meat",
+        "1 tsp salt",
+        "1/2 tsp black pepper",
+        "1/2 tsp cumin",
+        "1/2 tsp coriander"
+      ],
+      "instructions": [
+        "Grind the horse meat using a meat grinder or food processor.",
+        "Mix the ground meat with the salt, black pepper, cumin, and coriander.",
+        "Stuff the meat mixture into sausage casings.",
+        "Hang the sausages in a cool, dry place to dry for 2-3 days.",
+        "Boil the sausages in water for 30 minutes.",
+        "Remove the sausages from the water and let them cool.",
+        "Slice the sausages thinly and serve cold."
+      ]
+    }
+  ],
+  "Kenya": {
+    "recipes": [
+      {
+        "name": "Ugali and Sukuma Wiki",
+        "description": "Ugali is a staple food in Kenya made from maize flour, and is usually eaten with a side dish. Sukuma wiki, which translates to 'stretch the week', is a common vegetable dish that is easy to prepare and affordable.",
+        "ingredients": [
+          "2 cups maize flour",
+          "4 cups water",
+          "1 bunch of kale or collard greens, chopped",
+          "1 onion, chopped",
+          "2 tomatoes, chopped",
+          "1 tbsp vegetable oil",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "In a large pot, bring the water to a boil.",
+          "Add the maize flour to the pot and stir continuously until it thickens and forms a dense dough.",
+          "Cover the pot and let the ugali cook on low heat for about 15 minutes.",
+          "In another pan, heat the vegetable oil and fry the onions until they are soft and translucent.",
+          "Add the tomatoes and stir-fry for a few minutes.",
+          "Add the chopped kale or collard greens and stir-fry until they are wilted and cooked through.",
+          "Add salt to taste and serve the sukuma wiki alongside the ugali."
+        ]
+      },
+      {
+        "name": "Nyama Choma",
+        "description": "Nyama choma is a popular Kenyan dish consisting of grilled meat, usually goat or beef. It is often served with kachumbari, a fresh tomato and onion salad.",
+        "ingredients": [
+          "2 lbs goat or beef, cut into chunks",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "2 tbsp vegetable oil",
+          "1 tsp paprika",
+          "1 tsp cumin",
+          "1 tsp coriander",
+          "Salt and pepper to taste",
+          "Lemon wedges, for serving"
+        ],
+        "instructions": [
+          "In a large bowl, combine the meat, onion, garlic, vegetable oil, paprika, cumin, coriander, salt, and pepper. Mix well to coat the meat evenly.",
+          "Let the meat marinate in the fridge for at least an hour, or overnight for best results.",
+          "Preheat a grill or grill pan over medium-high heat.",
+          "Thread the meat onto skewers and grill for 10-15 minutes on each side, or until cooked to your desired level of doneness.",
+          "Serve the nyama choma hot, with lemon wedges and kachumbari on the side."
+        ]
+      }
+    ]
+  },
+  "Kiribati": {
+    "recipes": [
+      {
+        "name": "Kakabai",
+        "description": "Kakabai is a traditional dish in Kiribati, made with salted fish and coconut cream. It is usually served with breadfruit or rice.",
+        "ingredients": [
+          "500g salted fish",
+          "2 cups coconut cream",
+          "1 onion, finely chopped",
+          "2 garlic cloves, crushed",
+          "2 tbsp cooking oil",
+          "2-3 chilies, finely chopped",
+          "2 tomatoes, chopped",
+          "1/2 tsp salt",
+          "Breadfruit or rice, to serve"
+        ],
+        "instructions": [
+          "Soak the salted fish in water for a few hours to remove excess salt.",
+          "Drain the fish and cut into small pieces.",
+          "In a pan, heat the cooking oil and fry the onions, garlic, and chilies until fragrant.",
+          "Add the tomatoes and cook until soft.",
+          "Add the fish and salt, and cook for about 5 minutes.",
+          "Add the coconut cream and cook for another 5 minutes, until the sauce thickens.",
+          "Serve hot with breadfruit or rice."
+        ]
+      },
+      {
+        "name": "Kakamora",
+        "description": "Kakamora is a traditional dessert in Kiribati made with coconut, bananas, and sugar.",
+        "ingredients": [
+          "4 ripe bananas",
+          "1 cup grated coconut",
+          "1/4 cup sugar",
+          "1/4 tsp salt",
+          "1/2 cup water"
+        ],
+        "instructions": [
+          "Peel and slice the bananas.",
+          "In a saucepan, combine the grated coconut, sugar, salt, and water.",
+          "Bring to a boil and stir until the sugar dissolves.",
+          "Add the sliced bananas and cook for about 5 minutes, until the bananas are soft and the sauce thickens.",
+          "Serve hot or cold."
+        ]
+      }
+    ]
+  },
+  "Kuwait": {
+    "recipes": [
+      {
+        "name": "Machboos",
+        "description": "Machboos is a traditional Kuwaiti rice dish with chicken, onion, and spices.",
+        "ingredients": [
+          "1 whole chicken",
+          "4 cups basmati rice",
+          "3 large onions",
+          "2 tbsp. tomato paste",
+          "3-4 bay leaves",
+          "2 cinnamon sticks",
+          "1 tsp. cumin powder",
+          "1 tsp. coriander powder",
+          "1 tsp. turmeric powder",
+          "1 tsp. black pepper",
+          "1 tsp. salt",
+          "5-6 cardamom pods",
+          "3-4 cloves garlic",
+          "2-3 green chillies",
+          "1/4 cup oil",
+          "6-7 cups water"
+        ],
+        "instructions": [
+          "Wash and clean the chicken, then cut it into pieces. Cut the onions into thin slices.",
+          "Heat the oil in a large pot, then add the onions and cook until they are golden brown.",
+          "Add the chicken pieces to the pot and cook for 10 minutes until the chicken is browned.",
+          "Add the tomato paste, bay leaves, cinnamon sticks, cumin powder, coriander powder, turmeric powder, black pepper, salt, cardamom pods, garlic, and green chillies to the pot. Mix well and cook for 2-3 minutes.",
+          "Add 6 cups of water to the pot and bring to a boil. Reduce the heat and let it simmer for 30-35 minutes until the chicken is cooked and tender.",
+          "Remove the chicken pieces from the pot and set aside. Strain the chicken broth through a sieve and reserve it.",
+          "Wash the rice and soak it in cold water for 10 minutes. Drain the rice and set aside.",
+          "Heat 1/4 cup of oil in a large pot, then add the rice and cook for 2-3 minutes until the rice is slightly browned.",
+          "Add 7 cups of the reserved chicken broth to the pot and bring to a boil. Reduce the heat and let it simmer for 20-25 minutes until the rice is cooked.",
+          "Serve the Machboos hot with the chicken pieces on top."
+        ]
+      }
+    ]
+  },
+  "Kyrgyzstan": {
+    "recipes": [
+      {
+        "name": "Beshbarmak",
+        "description": "Beshbarmak is a traditional Kyrgyz dish made with boiled meat (usually lamb or beef) and pasta sheets, served with a flavorful onion sauce.",
+        "ingredients": [
+          "1 lb lamb or beef, cut into chunks",
+          "1 onion, chopped",
+          "3 cups all-purpose flour",
+          "1/2 tsp salt",
+          "1/2 cup warm water",
+          "2 tbsp vegetable oil",
+          "2 cups beef broth",
+          "3 large onions, sliced",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large pot, bring salted water to a boil. Add the meat and simmer for 30 minutes or until cooked.",
+          "Remove the meat from the pot and set aside. Reserve the broth.",
+          "In a large bowl, mix the flour, salt, warm water, and vegetable oil. Knead the dough until smooth.",
+          "Roll out the dough into thin sheets and cut into small pieces.",
+          "Add the pasta to the meat broth and cook until tender, about 10 minutes.",
+          "In a large skillet, sauté the onions until caramelized. Add the cooked meat, salt, and pepper. Stir to combine.",
+          "To serve, place the pasta on a platter, top with the meat and onion mixture, and drizzle with some of the broth."
+        ]
+      },
+      {
+        "name": "Laghman",
+        "description": "Laghman is a popular Kyrgyz noodle dish made with hand-pulled noodles, meat, and vegetables in a flavorful sauce.",
+        "ingredients": [
+          "1 lb lamb or beef, sliced",
+          "1 onion, chopped",
+          "1 carrot, julienned",
+          "1 bell pepper, sliced",
+          "2 cloves garlic, minced",
+          "1 tbsp tomato paste",
+          "2 cups beef broth",
+          "2 cups all-purpose flour",
+          "1/2 tsp salt",
+          "1/2 cup warm water",
+          "2 tbsp vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large pot, brown the meat over medium heat. Remove from the pot and set aside.",
+          "In the same pot, sauté the onion, carrot, bell pepper, and garlic until soft.",
+          "Add the tomato paste and stir to combine.",
+          "Return the meat to the pot and add the beef broth. Bring to a boil, then reduce heat and simmer for 30 minutes.",
+          "In a large bowl, mix the flour, salt, warm water, and vegetable oil. Knead the dough until smooth.",
+          "Roll out the dough into thin sheets and cut into thin noodles.",
+          "Add the noodles to the pot and cook until tender, about 10 minutes.",
+          "Season with salt and pepper to taste.",
+          "To serve, ladle the noodles and meat into bowls and spoon some of the sauce over the top."
+        ]
+      }
+    ]
+  },
+  "Lao": {
+    "recipes": [
+      {
+        "name": "Laab (Larb)",
+        "description": "Laab is a spicy and sour salad made with ground meat, typically pork or beef, and seasoned with lime juice, chili peppers, fish sauce, and fresh herbs. It is a staple dish in Lao cuisine and is often served as an appetizer or main course.",
+        "ingredients": [
+          "1 lb ground pork or beef",
+          "1/4 cup lime juice",
+          "2 tbsp fish sauce",
+          "2 tbsp ground roasted rice",
+          "2 tbsp thinly sliced green onions",
+          "2 tbsp chopped cilantro",
+          "1 tbsp chopped mint leaves",
+          "1 tbsp chopped dill",
+          "1 tbsp sliced shallots",
+          "1-2 red chili peppers, thinly sliced"
+        ],
+        "instructions": [
+          "In a large bowl, combine the ground meat with the lime juice and fish sauce.",
+          "Add the ground roasted rice, green onions, cilantro, mint leaves, dill, and shallots to the bowl and mix well.",
+          "Add the sliced chili peppers to the bowl and mix again.",
+          "Serve the laab salad at room temperature with lettuce leaves for wrapping."
+        ]
+      },
+      {
+        "name": "Khao Piak Sen (Lao Noodle Soup)",
+        "description": "Khao Piak Sen is a hearty and comforting noodle soup made with homemade rice noodles and chicken broth. It is typically served with sliced chicken or pork, bean sprouts, cilantro, and lime wedges.",
+        "ingredients": [
+          "1 lb boneless chicken thighs",
+          "2 tbsp fish sauce",
+          "1 tbsp soy sauce",
+          "1 tbsp sugar",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "8 cups chicken broth",
+          "1 lb fresh rice noodles",
+          "1 cup bean sprouts",
+          "1/4 cup chopped cilantro",
+          "4-6 lime wedges",
+          "2-3 red chili peppers, thinly sliced"
+        ],
+        "instructions": [
+          "In a large pot, bring the chicken thighs, fish sauce, soy sauce, sugar, salt, and black pepper to a boil over high heat.",
+          "Reduce the heat to low and simmer the chicken for 20-25 minutes, or until cooked through.",
+          "Remove the chicken from the pot and let it cool slightly before shredding it with a fork.",
+          "In another pot, bring the chicken broth to a boil over high heat.",
+          "Add the fresh rice noodles to the pot and cook for 2-3 minutes, or until tender.",
+          "Divide the noodles among 4-6 serving bowls and top with the shredded chicken, bean sprouts, cilantro, and chili peppers.",
+          "Ladle the hot chicken broth over the noodles and serve with lime wedges."
+        ]
+      }
+    ]
+  },
+  "Latvia": {
+    "recipes": [
+      {
+        "name": "Grey Peas and Bacon",
+        "description": "A traditional Latvian dish made with grey peas and bacon.",
+        "ingredients": [
+          "2 cups dried grey peas",
+          "8 cups water",
+          "1 large onion, chopped",
+          "4 cloves garlic, minced",
+          "1 tablespoon salt",
+          "1 teaspoon black pepper",
+          "1 pound bacon, chopped",
+          "1/2 cup sour cream"
+        ],
+        "instructions": [
+          "Soak the peas in water overnight.",
+          "Drain the peas and add them to a large pot with 8 cups of water.",
+          "Bring to a boil, then reduce heat to a simmer and cook until tender, about 1 hour.",
+          "In a separate pan, fry the bacon until crisp. Remove with a slotted spoon and set aside.",
+          "Add the chopped onion to the bacon grease and cook until soft and translucent, about 5 minutes. Add the minced garlic and cook for another minute.",
+          "Add the cooked bacon and onion mixture to the pot with the peas. Season with salt and black pepper to taste.",
+          "Simmer for another 10-15 minutes to allow the flavors to meld.",
+          "Serve hot, topped with a dollop of sour cream."
+        ]
+      },
+      {
+        "name": "Piragi",
+        "description": "A Latvian version of the popular Eastern European stuffed bread.",
+        "ingredients": [
+          "1/2 cup milk",
+          "1/2 cup water",
+          "1/2 cup unsalted butter, melted",
+          "1/4 cup sugar",
+          "1 tablespoon active dry yeast",
+          "4 cups all-purpose flour",
+          "1 teaspoon salt",
+          "1 egg, lightly beaten",
+          "1 pound bacon, finely chopped",
+          "2 large onions, finely chopped",
+          "1 teaspoon black pepper",
+          "1/2 teaspoon nutmeg"
+        ],
+        "instructions": [
+          "Combine the milk, water, melted butter, sugar, and yeast in a large mixing bowl.",
+          "Add the flour and salt and mix until a soft dough forms.",
+          "Knead the dough on a floured surface for about 5 minutes, until it is smooth and elastic.",
+          "Place the dough in a greased bowl, cover with plastic wrap, and let it rise in a warm place until it has doubled in size, about 1 hour.",
+          "In a large skillet, cook the bacon until crisp. Remove with a slotted spoon and set aside.",
+          "Add the chopped onions to the bacon grease and cook until soft and translucent, about 5 minutes. Add the cooked bacon, black pepper, and nutmeg and stir to combine.",
+          "Preheat the oven to 375°F. Line a baking sheet with parchment paper.",
+          "Roll out the dough on a floured surface to 1/4 inch thickness.",
+          "Use a biscuit cutter or drinking glass to cut out circles of dough.",
+          "Place a spoonful of the bacon and onion mixture in the center of each circle.",
+          "Fold the edges of the circle up and over the filling, pinching the edges together to seal.",
+          "Place the piragi on the prepared baking sheet and brush the tops with beaten egg.",
+          "Bake for 20-25 minutes, until golden brown.",
+          "Serve hot or at room temperature."
+        ]
+      }
+    ]
+  },
+  "Lebanon": {
+    "recipes": [
+      {
+        "name": "Tabbouleh",
+        "description": "Tabbouleh is a classic Lebanese salad that is made with parsley, tomatoes, onions, and bulgur wheat. It is seasoned with olive oil, lemon juice, and salt, and is usually served as a side dish or a mezze.",
+        "ingredients": [
+          "1/2 cup bulgur wheat",
+          "2 cups fresh parsley, chopped",
+          "1/2 cup fresh mint, chopped",
+          "1/2 cup green onions, chopped",
+          "2 cups tomatoes, chopped",
+          "1/4 cup olive oil",
+          "1/4 cup lemon juice",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "Soak the bulgur wheat in cold water for 30 minutes.",
+          "Drain the bulgur wheat and squeeze out any excess water.",
+          "In a large bowl, combine the bulgur wheat, parsley, mint, green onions, and tomatoes.",
+          "In a small bowl, whisk together the olive oil, lemon juice, and salt.",
+          "Pour the dressing over the salad and toss to combine.",
+          "Chill the salad in the refrigerator for at least 30 minutes before serving."
+        ]
+      },
+      {
+        "name": "Kibbeh Nayeh",
+        "description": "Kibbeh Nayeh is a popular Lebanese dish made with raw ground beef or lamb and bulgur wheat. It is usually served as an appetizer or a mezze, and is seasoned with spices and olive oil.",
+        "ingredients": [
+          "1 lb. raw ground beef or lamb",
+          "1 cup fine bulgur wheat",
+          "1 onion, chopped",
+          "1 tsp. salt",
+          "1 tsp. black pepper",
+          "1 tsp. cumin",
+          "1/2 tsp. cinnamon",
+          "1/4 cup olive oil",
+          "1/4 cup fresh mint, chopped",
+          "1/4 cup fresh parsley, chopped",
+          "1/4 cup fresh cilantro, chopped",
+          "1/4 cup green onions, chopped"
+        ],
+        "instructions": [
+          "Soak the bulgur wheat in cold water for 30 minutes.",
+          "Drain the bulgur wheat and squeeze out any excess water.",
+          "In a large bowl, combine the ground beef or lamb, soaked bulgur wheat, onion, salt, black pepper, cumin, and cinnamon.",
+          "Knead the mixture together until it is well combined.",
+          "Spread the mixture out on a platter, and use a spoon or your hands to make a well in the center.",
+          "Pour the olive oil into the well.",
+          "Garnish the top of the kibbeh with the chopped mint, parsley, cilantro, and green onions.",
+          "Serve the kibbeh with pita bread or crackers."
+        ]
+      }
+    ]
+  },
+  "Lesotho": {
+    "recipes": [
+      {
+        "name": "Papa",
+        "description": "Papa is a staple food in Lesotho, made from maize meal and water. It is similar to porridge or grits, and is usually served with vegetables and meat.",
+        "ingredients": ["2 cups maize meal", "6 cups water", "Salt, to taste"],
+        "instructions": [
+          "Bring the water to a boil in a large pot.",
+          "Slowly add the maize meal, stirring constantly to prevent lumps.",
+          "Reduce the heat to low, and continue stirring for 20-30 minutes until the mixture thickens and becomes smooth.",
+          "Add salt to taste, and serve hot with vegetables and meat."
+        ]
+      },
+      {
+        "name": "Sechu",
+        "description": "Sechu is a traditional Lesotho dish made with dried corn leaves and beans. It is typically served as a side dish or a snack.",
+        "ingredients": [
+          "1 cup dried corn leaves",
+          "1 cup beans",
+          "1 onion, chopped",
+          "1/2 cup tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "2 tbsp. vegetable oil",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "Soak the dried corn leaves in water for several hours until they are soft.",
+          "In a large pot, boil the beans until they are tender.",
+          "Drain the beans, and add the corn leaves to the pot.",
+          "Saute the onion and garlic in vegetable oil until they are soft and fragrant.",
+          "Add the tomatoes to the pot, and continue cooking until they are tender.",
+          "Add the onion mixture to the pot, and stir well to combine.",
+          "Add salt to taste, and simmer for 10-15 minutes until the mixture is heated through.",
+          "Serve hot as a side dish or a snack."
+        ]
+      }
+    ]
+  },
+  "Liberia": {
+    "recipes": [
+      {
+        "name": "Jollof Rice",
+        "description": "Jollof Rice is a popular Liberian dish made with rice, tomatoes, onions, and spices. It is often served with fried plantains or grilled meat.",
+        "ingredients": [
+          "2 cups rice",
+          "4 cups water",
+          "1 onion, chopped",
+          "3 tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 tsp. ginger, grated",
+          "1 tsp. salt",
+          "1 tsp. paprika",
+          "1 tsp. black pepper",
+          "1/4 cup oil"
+        ],
+        "instructions": [
+          "Wash the rice and drain.",
+          "In a pot, add the rice, water, onion, tomatoes, garlic, ginger, salt, paprika, black pepper, and oil.",
+          "Bring to a boil, then reduce the heat to low and cover with a tight-fitting lid.",
+          "Cook for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+          "Fluff the rice with a fork before serving."
+        ]
+      },
+      {
+        "name": "Cassava Leaf Soup",
+        "description": "Cassava Leaf Soup is a traditional Liberian dish made with cassava leaves, palm oil, onions, and meat. It is often served with rice or fufu.",
+        "ingredients": [
+          "2 lbs. cassava leaves, finely chopped",
+          "2 lbs. meat (chicken, beef, or goat), cubed",
+          "1 onion, chopped",
+          "1/2 cup palm oil",
+          "2 cups water",
+          "2 tbsp. peanut butter",
+          "1 tbsp. salt",
+          "1 tsp. black pepper",
+          "1 hot pepper, chopped (optional)"
+        ],
+        "instructions": [
+          "In a large pot, add the cassava leaves, meat, onion, palm oil, and water.",
+          "Bring to a boil, then reduce the heat to low and simmer for 1-2 hours, or until the meat is tender and the cassava leaves are soft.",
+          "Add the peanut butter, salt, black pepper, and hot pepper (if using), and stir until well combined.",
+          "Continue to simmer for an additional 30-45 minutes, or until the soup has thickened and the flavors have melded together.",
+          "Serve hot with rice or fufu."
+        ]
+      }
+    ]
+  },
+  "Libya": {
+    "recipes": [
+      {
+        "name": "Bazin",
+        "description": "Bazin is a traditional Libyan dish that is made from a type of flour called barley flour. It is often eaten with a sauce made from meat, vegetables, and spices.",
+        "ingredients": ["2 cups barley flour", "1 1/2 cups water"],
+        "instructions": [
+          "In a large bowl, mix together the barley flour and water until a dough forms.",
+          "Knead the dough for several minutes until it becomes smooth and elastic.",
+          "Form the dough into small balls and flatten them into discs.",
+          "Bring a large pot of salted water to a boil.",
+          "Add the discs of dough to the pot and boil for 10-15 minutes, or until they float to the surface.",
+          "Remove the discs of dough from the water and serve with a sauce made from meat, vegetables, and spices."
+        ]
+      },
+      {
+        "name": "Shakshouka",
+        "description": "Shakshouka is a popular Libyan dish made from eggs poached in a spicy tomato sauce. It is often served for breakfast or brunch, and is usually eaten with bread for dipping in the sauce.",
+        "ingredients": [
+          "2 tbsp. olive oil",
+          "1 onion, chopped",
+          "1 red bell pepper, chopped",
+          "2 cloves garlic, minced",
+          "2 tsp. ground cumin",
+          "1 tsp. paprika",
+          "1/2 tsp. cayenne pepper",
+          "1 can (28 oz.) crushed tomatoes",
+          "Salt, to taste",
+          "4-6 eggs",
+          "2 tbsp. fresh parsley, chopped"
+        ],
+        "instructions": [
+          "Heat the olive oil in a large skillet over medium heat.",
+          "Add the onion and red bell pepper and cook until they are soft and translucent.",
+          "Add the garlic, cumin, paprika, and cayenne pepper, and cook for 1-2 minutes until fragrant.",
+          "Add the crushed tomatoes and salt to the skillet, and stir to combine.",
+          "Simmer the sauce for 10-15 minutes, or until it has thickened slightly.",
+          "Use a spoon to make 4-6 indentations in the sauce.",
+          "Crack an egg into each indentation.",
+          "Cover the skillet and let the eggs cook for 5-7 minutes, or until they are set to your liking.",
+          "Sprinkle the chopped parsley over the top of the shakshouka.",
+          "Serve the shakshouka hot, with bread for dipping in the sauce."
+        ]
+      }
+    ]
+  },
+  "Liechtenstein": {
+    "recipes": [
+      {
+        "name": "Käsknöpfle",
+        "description": "Käsknöpfle is a traditional dish from Liechtenstein, similar to Austrian Spätzle or Swiss Chäschüechli. It consists of soft egg noodles topped with melted cheese and fried onions.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "4 eggs",
+          "1/2 cup milk",
+          "1/2 tsp salt",
+          "1/4 tsp nutmeg",
+          "1/4 tsp black pepper",
+          "1 cup grated Gruyere cheese",
+          "1/2 cup grated Parmesan cheese",
+          "1/2 cup butter",
+          "1 onion, chopped"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the flour, eggs, milk, salt, nutmeg, and black pepper to make a smooth batter.",
+          "Bring a large pot of salted water to a boil.",
+          "Using a spaetzle maker or a colander with large holes, press the batter through into the boiling water. Cook until the spaetzle float to the surface, then remove them with a slotted spoon and place them in a large bowl.",
+          "In a small saucepan, melt the butter over medium heat. Add the chopped onion and cook until soft and golden brown, stirring frequently.",
+          "Pour the melted butter and onions over the spaetzle in the bowl, then add the grated Gruyere and Parmesan cheese. Toss everything together until the cheese is melted and the spaetzle are coated in the sauce.",
+          "Serve the Käsknöpfle hot, garnished with chopped parsley if desired."
+        ]
+      },
+      {
+        "name": "Ribel",
+        "description": "Ribel is a traditional polenta-like dish from Liechtenstein, made with cornmeal and milk. It is usually served as a side dish with sausages or other meat dishes.",
+        "ingredients": [
+          "4 cups milk",
+          "1 1/2 cups cornmeal",
+          "1/2 tsp salt",
+          "1/4 tsp black pepper",
+          "1/4 tsp nutmeg",
+          "2 tbsp butter"
+        ],
+        "instructions": [
+          "In a large saucepan, bring the milk to a boil.",
+          "Gradually whisk in the cornmeal, salt, black pepper, and nutmeg, stirring constantly to prevent lumps.",
+          "Reduce the heat to low and simmer the ribel for 20-30 minutes, stirring frequently, until it is thick and creamy.",
+          "Stir in the butter until it is melted and well combined.",
+          "Serve the ribel hot, as a side dish with sausages or other meat dishes."
+        ]
+      }
+    ]
+  },
+  "Lithuania": {
+    "recipes": [
+      {
+        "name": "Cepelinai",
+        "description": "Cepelinai is a traditional Lithuanian dish made with grated potatoes and stuffed with meat. It is usually served with sour cream and bacon.",
+        "ingredients": [
+          "6 potatoes, peeled and grated",
+          "2 cups all-purpose flour",
+          "1 lb. ground pork",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "Salt, to taste",
+          "Pepper, to taste",
+          "1 cup sour cream",
+          "6 slices bacon, cooked and crumbled"
+        ],
+        "instructions": [
+          "In a large bowl, combine the grated potatoes, flour, salt, and pepper.",
+          "Knead the mixture until it forms a dough.",
+          "In a separate bowl, combine the ground pork, onion, garlic, salt, and pepper.",
+          "Form the potato dough into small balls, and flatten them into circles.",
+          "Place a spoonful of the meat mixture in the center of each circle.",
+          "Pinch the edges of the dough together to seal the filling inside.",
+          "Bring a large pot of salted water to a boil.",
+          "Add the cepelinai to the boiling water, and cook for 15-20 minutes, or until they float to the surface.",
+          "Serve the cepelinai hot, topped with sour cream and crumbled bacon."
+        ]
+      },
+      {
+        "name": "Kugelis",
+        "description": "Kugelis is a Lithuanian potato pudding that is usually served as a main dish. It is made with grated potatoes, bacon, onions, and eggs, and is usually served with sour cream.",
+        "ingredients": [
+          "6 potatoes, peeled and grated",
+          "1 onion, chopped",
+          "6 slices bacon, cooked and crumbled",
+          "4 eggs, beaten",
+          "1 cup milk",
+          "1/4 cup all-purpose flour",
+          "Salt, to taste",
+          "Pepper, to taste",
+          "Sour cream, for serving"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C).",
+          "In a large bowl, combine the grated potatoes, chopped onion, crumbled bacon, beaten eggs, milk, flour, salt, and pepper.",
+          "Stir the mixture until it is well combined.",
+          "Pour the mixture into a greased baking dish.",
+          "Bake the kugelis for 1 hour, or until it is golden brown and cooked through.",
+          "Serve the kugelis hot, topped with sour cream."
+        ]
+      }
+    ]
+  },
+  "Luxembourg": {
+    "recipes": [
+      {
+        "name": "Judd mat Gaardebounen",
+        "description": "Judd mat Gaardebounen is the national dish of Luxembourg, and is made with smoked pork collar and broad beans. It is usually served with boiled potatoes and a side of applesauce.",
+        "ingredients": [
+          "1 smoked pork collar (about 2 lbs.)",
+          "1 lb. dried broad beans",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, chopped",
+          "2 celery stalks, chopped",
+          "1 bay leaf",
+          "1 sprig thyme",
+          "1/4 cup butter",
+          "1/4 cup flour",
+          "2 cups chicken broth",
+          "Salt and pepper, to taste"
+        ],
+        "instructions": [
+          "Soak the broad beans in water overnight.",
+          "In a large pot, combine the pork collar, soaked beans, onion, garlic, carrots, celery, bay leaf, thyme, salt, and pepper. Add enough water to cover the ingredients by 2 inches.",
+          "Bring the pot to a boil, then reduce the heat and simmer for about 2 hours, or until the meat is tender.",
+          "Remove the meat from the pot and set aside. Discard the bay leaf and thyme sprig.",
+          "In a separate pot, melt the butter over medium heat. Add the flour and whisk together to form a roux.",
+          "Gradually whisk in the chicken broth until the mixture is smooth.",
+          "Add the vegetables and broth from the pork collar pot to the roux pot. Bring the mixture to a boil and cook for about 10 minutes, or until the sauce thickens.",
+          "Slice the pork collar and serve with the broad beans and sauce, along with boiled potatoes and applesauce."
+        ]
+      },
+      {
+        "name": "Gromperekichelcher",
+        "description": "Gromperekichelcher is a traditional Luxembourgish potato pancake that is often served as a snack or appetizer. It is made with grated potatoes, flour, onions, and seasonings, and is usually fried until crispy.",
+        "ingredients": [
+          "4 medium potatoes, peeled and grated",
+          "1 onion, grated",
+          "1 egg, beaten",
+          "1/4 cup flour",
+          "Salt and pepper, to taste",
+          "Oil, for frying"
+        ],
+        "instructions": [
+          "In a large bowl, combine the grated potatoes, onion, egg, flour, salt, and pepper.",
+          "Heat about 1/4 inch of oil in a large skillet over medium heat.",
+          "Using a spoon, drop the potato mixture into the hot oil and flatten with the back of the spoon to form a pancake.",
+          "Fry the pancake for about 3-4 minutes on each side, or until golden brown and crispy.",
+          "Remove the pancake from the skillet and place on a paper towel-lined plate to drain any excess oil.",
+          "Repeat the process with the remaining potato mixture, adding more oil to the skillet as needed.",
+          "Serve the gromperekichelcher hot, with applesauce or sour cream as a dipping sauce."
+        ]
+      }
+    ]
   }
 }
