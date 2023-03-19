@@ -4,7 +4,7 @@
     "fs": "^0.0.1-security"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "name": "grub-globe",
   "description": "Grub Globe is a web application that provides users with food recipes from around the world. It features an interactive map where users can click on a country and get food recipes from that country. Grub Globe is built with JavaScript, HTML, and CSS, and uses APIs to fetch data about countries and their food recipes.</br>",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/asbaxter/grub-globe/issues"
   },
-  "homepage": "https://github.com/asbaxter/grub-globe#readme"
+  "homepage": "https://github.com/asbaxter/grub-globe#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }

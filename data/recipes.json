@@ -4992,53 +4992,54 @@
       }
     ]
   },
-  "country": "Kazakhstan",
-  "recipes": [
-    {
-      "name": "Beshbarmak",
-      "description": "Beshbarmak is the national dish of Kazakhstan, consisting of boiled meat (usually beef or mutton) served over sheets of homemade pasta.",
-      "ingredients": [
-        "1 lb beef or mutton",
-        "1 onion, chopped",
-        "2 carrots, chopped",
-        "2 potatoes, chopped",
-        "1 cup flour",
-        "1 egg",
-        "1/2 cup water",
-        "Salt and pepper to taste"
-      ],
-      "instructions": [
-        "In a large pot, boil the meat until tender.",
-        "Remove the meat from the pot and set aside. Keep the broth for later use.",
-        "In a separate pot, boil the chopped potatoes and carrots until tender.",
-        "To make the pasta, mix together the flour, egg, and water until a dough forms.",
-        "Knead the dough for several minutes, then roll it out on a floured surface until it's about 1/4 inch thick.",
-        "Cut the dough into squares or diamond shapes.",
-        "Boil the pasta in the meat broth until cooked through.",
-        "To serve, place the pasta on a platter and top with the boiled meat, potatoes, and carrots. Pour the meat broth over everything and season with salt and pepper."
-      ]
-    },
-    {
-      "name": "Kazy",
-      "description": "Kazy is a traditional Kazakh sausage made from horse meat. It is usually served cold and sliced thinly.",
-      "ingredients": [
-        "2 lbs horse meat",
-        "1 tsp salt",
-        "1/2 tsp black pepper",
-        "1/2 tsp cumin",
-        "1/2 tsp coriander"
-      ],
-      "instructions": [
-        "Grind the horse meat using a meat grinder or food processor.",
-        "Mix the ground meat with the salt, black pepper, cumin, and coriander.",
-        "Stuff the meat mixture into sausage casings.",
-        "Hang the sausages in a cool, dry place to dry for 2-3 days.",
-        "Boil the sausages in water for 30 minutes.",
-        "Remove the sausages from the water and let them cool.",
-        "Slice the sausages thinly and serve cold."
-      ]
-    }
-  ],
+  "Kazakhstan": {
+    "recipes": [
+      {
+        "name": "Beshbarmak",
+        "description": "Beshbarmak is the national dish of Kazakhstan, consisting of boiled meat (usually beef or mutton) served over sheets of homemade pasta.",
+        "ingredients": [
+          "1 lb beef or mutton",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 potatoes, chopped",
+          "1 cup flour",
+          "1 egg",
+          "1/2 cup water",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large pot, boil the meat until tender.",
+          "Remove the meat from the pot and set aside. Keep the broth for later use.",
+          "In a separate pot, boil the chopped potatoes and carrots until tender.",
+          "To make the pasta, mix together the flour, egg, and water until a dough forms.",
+          "Knead the dough for several minutes, then roll it out on a floured surface until it's about 1/4 inch thick.",
+          "Cut the dough into squares or diamond shapes.",
+          "Boil the pasta in the meat broth until cooked through.",
+          "To serve, place the pasta on a platter and top with the boiled meat, potatoes, and carrots. Pour the meat broth over everything and season with salt and pepper."
+        ]
+      },
+      {
+        "name": "Kazy",
+        "description": "Kazy is a traditional Kazakh sausage made from horse meat. It is usually served cold and sliced thinly.",
+        "ingredients": [
+          "2 lbs horse meat",
+          "1 tsp salt",
+          "1/2 tsp black pepper",
+          "1/2 tsp cumin",
+          "1/2 tsp coriander"
+        ],
+        "instructions": [
+          "Grind the horse meat using a meat grinder or food processor.",
+          "Mix the ground meat with the salt, black pepper, cumin, and coriander.",
+          "Stuff the meat mixture into sausage casings.",
+          "Hang the sausages in a cool, dry place to dry for 2-3 days.",
+          "Boil the sausages in water for 30 minutes.",
+          "Remove the sausages from the water and let them cool.",
+          "Slice the sausages thinly and serve cold."
+        ]
+      }
+    ]
+  },
   "Kenya": {
     "recipes": [
       {
@@ -7606,7 +7607,7 @@
       }
     ]
   },
-  "Russia": {
+  "Russian Federation": {
     "recipes": [
       {
         "name": "Borscht",
@@ -9450,7 +9451,7 @@
       }
     ]
   },
-  "United States of America": {
+  "United States": {
     "recipes": [
       {
         "name": "Hamburger",
