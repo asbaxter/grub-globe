@@ -1,13 +1,15 @@
+:root {
+  --first-color: #ebebff;
+  --second-color: #ccccff;
+  --third-color: #5453a6;
+}
+
 path:hover {
   fill: #ccccff;
 }
 
 #my-svg-element {
   pointer-events: all;
-}
-
-ul {
-  list-style: none;
 }
 
 /** -------------------- Popup Window ----------------------- **/
@@ -18,13 +20,56 @@ ul {
   bottom: 0;
   right: 0;
   margin: auto;
-  background-color: white;
-  border: 1px solid black;
-  text-align: center;
-  width: 50%;
+  background-color: var(--first-color);
+  border: 1px solid var(--second-color);
+  width: 40%;
   height: fit-content;
+  color: var(--third-color);
 }
 
 .hidden {
   display: none;
+}
+
+/** ----------------------- popup text ------------------------- **/
+
+#country-name {
+  font-size: xx-large;
+  text-align: center;
+}
+
+#recipe-name {
+  border-bottom: 1px solid var(--third-color);
+  width: 150px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.title {
+  border-bottom: 1px solid var(--third-color);
+  width: 150px;
+  margin: auto;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#description {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+#ingredient-list {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  list-style: none;
+  text-indent: -50px;
+}
+#instruction-list {
+  width: 70%;
+  margin: auto;
+  padding-bottom: 30px;
 }
